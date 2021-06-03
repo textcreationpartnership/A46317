@@ -1,0 +1,727 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Journal, or, A most particular account of all that passed in the late seige of Vienna written by a principal officer, who was in the town during the whole time of the seige, and sent by authority to the Imperial Commissioner at the Dyet of Ratisbonne ; translated out of High-Dutch by His Majestie command.</title>
+            <title>Glaubwürdiges Diarium und Beschreibung dessen was Zeit währender türkischen Belagerung ... der Stadt Wienn vorgangen. English.</title>
+         </titleStmt>
+         <extent>Approx. 88KB of XML-encoded text transcribed from 50 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46317</idno><idno type="EEBO-CITATION">12820596</idno>
+  <idno type="VID">94208</idno>
+  <idno type="EEBO-PROQUEST">2248544475</idno>
+  
+            <idno type="STC">Wing J1112</idno>
+            <idno type="STC">ESTC R32990</idno>
+            <idno type="OCLC">12820596</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A46317)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 94208)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1035:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Journal, or, A most particular account of all that passed in the late seige of Vienna written by a principal officer, who was in the town during the whole time of the seige, and sent by authority to the Imperial Commissioner at the Dyet of Ratisbonne ; translated out of High-Dutch by His Majestie command.</title>
+                  <title>Glaubwürdiges Diarium und Beschreibung dessen was Zeit währender türkischen Belagerung ... der Stadt Wienn vorgangen. English.</title>
+               </titleStmt>
+               <extent>[2], 89, [3] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for H. Rogers and M. Gylliflower ... and are to be sold by Walter Davis,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1684.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: pages stained with print showthrough and loss of print.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Vienna (Austria) --  History --  Siege, 1683.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Amanda Flynn </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Amanda Flynn</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:94208:1"/>
+            <pb facs="tcp:94208:1"/>
+            <pb facs="tcp:94208:2"/>
+            <pb facs="tcp:94208:2"/>
+            <pb facs="tcp:94208:3"/>
+            <pb facs="tcp:94208:3"/>
+            <p>JOURNAL: Or a most Particular Account Of all that passed in the Late Siege OF VIENNA. Written by a principal Officer, who was in the Town during the whole time of the Siege. AND Sent by Authority to the Imperial Commissioner at the Dyet of Ratisbonne.</p>
+            <p>Translated out of HIGH-DUTCH By His Majesties Command.</p>
+            <p>London, Printed for H. Rogers and M. Gylliflower, Book<g ref="char:EOLhyphen"/>sellers in Westminster-Hall; and are to be sold by Walter Davis Book-binder in Amen Corner. 1684.</p>
+            <pb facs="tcp:94208:4"/>
+         </div>
+      </front>
+      <body>
+         <div type="journal">
+            <pb n="1" facs="tcp:94208:4"/>
+            <head>A Journal, Or Descri<g ref="char:EOLhyphen"/>ption of the late Siege of <hi>Vi<g ref="char:EOLhyphen"/>enna</hi> by the <hi>Turks.</hi> Writ<g ref="char:EOLhyphen"/>ten in <hi>High-Dutch</hi> by an Officer, who was in the Town during the whole time of the Siege; and sent by Authority to the Imperial Commissa<g ref="char:EOLhyphen"/>ry at the Dyet of <hi>Ratis<g ref="char:EOLhyphen"/>bonne</hi>
+            </head>
+            <p>THE <hi>Turks</hi> being come with their Army near to the Town of <hi>Raab,</hi> on the other side of the River of that name, and making a shew as if they would besiege <hi>Raab,</hi> which on one side was co<g ref="char:EOLhyphen"/>vered
+<pb n="2" facs="tcp:94208:5"/> by the Imperial Army, they did then detach a body of some thousands of men, who ad<g ref="char:EOLhyphen"/>vanced towards <hi>Austria,</hi> which made the Imperial Infantry and Artillery draw into the little I<g ref="char:EOLhyphen"/>sland of <hi>Schut</hi> near to <hi>Raab,</hi> and the Cavalry to follow the Enemy, whom although they had advan<g ref="char:EOLhyphen"/>ced, yet could they not hinder them in the pursuit of their march, which was also seconded by the motion of the whole <hi>Turk<g ref="char:EOLhyphen"/>ish</hi> Army.</p>
+            <div type="day">
+               <p>This occasioned the first <note place="margin">
+                     <hi>July</hi> 2. 1683.</note> alarm at <hi>Vienna,</hi> upon the 2. of <hi>July,</hi> it being reported that the Enemy was in chace of the Impe<g ref="char:EOLhyphen"/>rial Cavalry, and had already burnt and destroyed all before them, at and beyond the Bridge upon the River <hi>Leitha,</hi> w<seg rend="sup">ch</seg> made a great number of people with<g ref="char:EOLhyphen"/>draw themselves from <hi>Vienna.</hi>
+               </p>
+            </div>
+            <div type="day">
+               <pb n="3" facs="tcp:94208:5"/>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">day of month </seg>7</label> On the 7. The alarm and con<g ref="char:EOLhyphen"/>fusion increased very much by the reports that were spread abroad, That the Enemy had not only beaten our whole Cavalry, but the Infantry and Artillery also, and was in a warm pursuit of the rest of our Cavalry, even to the very walls of <hi>Vienna;</hi> which find<g ref="char:EOLhyphen"/>ing more credit every hour, and several that had made their escape, and Expresses coming to <hi>Vienna,</hi> between 4. and 5. in the After<g ref="char:EOLhyphen"/>noon with news of the evil and dangerous condition of our Army which was continualy retreating, his Imperial Majesty withdrew himself out of the Town that E<g ref="char:EOLhyphen"/>vening about 8. of the Clock, and all people used their best en<g ref="char:EOLhyphen"/>deavours to make their escape as well as they could, either on Horse-back or in Waggons.</p>
+               <pb n="4" facs="tcp:94208:6"/>
+               <p>In a word, the consternation was so great, the confusion so ex<g ref="char:EOLhyphen"/>traordinary, the conjuncture so advantagious for the Enemy, and all things on our side in so ill a po<g ref="char:EOLhyphen"/>sture, that the Emperour him<g ref="char:EOLhyphen"/>self could not have been saved, if God Almighty had not merci<g ref="char:EOLhyphen"/>fully preserved him, and infatu<g ref="char:EOLhyphen"/>ated the Enemy so as not to pur<g ref="char:EOLhyphen"/>sue those that were making their escape, and to give opportunity of furnishing the Town with ne<g ref="char:EOLhyphen"/>cessaries; which was the more ea<g ref="char:EOLhyphen"/>sily done, in as much as the Ene<g ref="char:EOLhyphen"/>my had not in the last action so great advantage upon our Caval<g ref="char:EOLhyphen"/>ry as had been reported. As our Cavalry continued their re<g ref="char:EOLhyphen"/>treat from <hi>Altenburg,</hi> they were attacked by the Enemy in their march near <hi>Petronel,</hi> and altho many of our people did not be<g ref="char:EOLhyphen"/>have themselves so well as they ought; Yet our loss was not so
+<pb n="5" facs="tcp:94208:6"/> great as the confusion, there be<g ref="char:EOLhyphen"/>ing not above 1000 Horse of ours killed; nor were they reduced to any extremity, but rather would have been able to have made the Enemy give way, had they not put themselves into disorder by running over one another in their retreat, so that although some of our Regiments stood their ground, and behaved themselves well, without which all our Ca<g ref="char:EOLhyphen"/>valry had been utterly destroyed; yet was the whole Body of our Horse forced to retreat as far as <hi>Vischa</hi> that Night, and the next Morning early to <hi>Vienna.</hi> In this action, the conduct of the Marquess <hi>Lewis</hi> of <hi>Baden</hi> was very commendable, as having kept the Troops in a steddy po<g ref="char:EOLhyphen"/>sture, and made them retire in good order.</p>
+            </div>
+            <div type="day">
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">day of month </seg>8</label> On the 8. early, and all the
+<pb n="6" facs="tcp:94208:7"/> next day, our Cavalry marched over the Bridges into the Island <hi>Tabor,</hi> where they incamped. In the Evening, his Excellency Count <hi>Starenberg</hi> Master Gene<g ref="char:EOLhyphen"/>ral of the Ordnance, and Com<g ref="char:EOLhyphen"/>mander in chief of <hi>Vienna,</hi> came hither, bringing with him seve<g ref="char:EOLhyphen"/>ral Officers, who were followed on the 9. early by several others belonging to the Artilery: where<g ref="char:EOLhyphen"/>upon a Council of War having been held on the 7. in the Even<g ref="char:EOLhyphen"/>ing, and on the 8. in the Morn<g ref="char:EOLhyphen"/>ing, wherein I was intrusted with the Command of the Artil<g ref="char:EOLhyphen"/>lery, On the 9. all the Officers of the Artillery, Guard of the City, and the Burgers, were put under my direction; yet was there little done that day to<g ref="char:EOLhyphen"/>wards the preparation of the Bat<g ref="char:EOLhyphen"/>teries, there being a want of all things necessary for it. This day, until 9. the next Morning, two
+<pb n="7" facs="tcp:94208:7"/> Regiments of Horse had the guard of the Counterscarp, and about the same time the Regi<g ref="char:EOLhyphen"/>ments of <hi>Stirom</hi> and <hi>Dunewalt</hi> were sent over the great Bridge, to secure the Emperour in his re<g ref="char:EOLhyphen"/>treat. And this day, we begun to place the Pallizadoes in the Counterscarp.</p>
+               <p>
+                  <hi>The Word was S.</hi> Leopold <hi>and</hi> Vienna.</p>
+            </div>
+            <div type="day">
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">day of month </seg>9</label> On the 9. in the Afternoon, the news came, That the Enemy had burnt as far the <hi>Wienerburgh:</hi> Whereupon several Troops were immediately commanded that way, to discover from the several Hills what the Enemy was do<g ref="char:EOLhyphen"/>ing; when they found that it was a false alarm. That day was spent in fixing the Palliza<g ref="char:EOLhyphen"/>does in the Counterscarp, and putting things in a good po<g ref="char:EOLhyphen"/>sture there. This day also came
+<pb n="8" facs="tcp:94208:8"/> back to <hi>Vienna</hi> General <hi>Capliers</hi> in the quality of his Imperial Ma<g ref="char:EOLhyphen"/>jesty's first Deputy; to whose most prudent direction and to the extraordinary valour and Con<g ref="char:EOLhyphen"/>duct of Count <hi>Starenbergh,</hi> the care and preservation of the Town is, after God, wholly due. This day an incredible number of People came into the Town.</p>
+            </div>
+            <div type="day">
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">day of month </seg>10</label> The <hi>10th</hi> in the afternoon, 30 men were set a work upon the Ba<g ref="char:EOLhyphen"/>stion of <hi>Carinthia,</hi> to make Plat<g ref="char:EOLhyphen"/>forms for great Guns, and News then came, that Colonel <hi>Thewizi</hi> and Colonel <hi>Heusler</hi> had beaten a Party of <hi>Tartars.</hi> And at the same time, information was brought that the Enemy was on his march from <hi>Raab</hi> directly to <hi>Vienna;</hi> whereupon the Burgers, as well as the Souldiers and Handy crafts-men, began to work at the Fortifications, and to break
+<pb n="9" facs="tcp:94208:8"/> down the Houses and Gardens nearest to the Town.</p>
+               <p>
+                  <hi>The Word was S.</hi> Nicholas <hi>and</hi> Leitha.</p>
+            </div>
+            <div type="day">
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">day of month </seg>11</label> On the 11. Nothing considera<g ref="char:EOLhyphen"/>ble happened from the Enemy, more than that several fires were seen. In the morning 1000. of our Infantry came hither, the Gardens and houses were conti<g ref="char:EOLhyphen"/>ed to be pulled down; and upon the Bastions of the <hi>Piber,</hi> and of the <hi>Court,</hi> the Platforms were be<g ref="char:EOLhyphen"/>gun to be made for the Cannon. In the Evening direction was given for bringing all the Boats together to <hi>Cloyster-Newburgh,</hi> in order to make a Bridge, and 1000. Bullets for half Cannon were brought hither by water.</p>
+               <p>
+                  <hi>The Word was S.</hi> Bernard <hi>and</hi> Breslaw.</p>
+            </div>
+            <div type="day">
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">day of month </seg>12</label> On the 12. The Enemy went
+<pb n="10" facs="tcp:94208:9"/> on burning several other places near the Town, and the <hi>Tartars</hi> be<g ref="char:EOLhyphen"/>ing come as far as the Palace cal<g ref="char:EOLhyphen"/>led the <hi>Favorita</hi> set all on fire that Night. General <hi>Schults</hi> came this day with his Troops within two Miles on the other side of the <hi>Danube,</hi> and some of our Infantry entred the Town, and placed themselves there and on the Counterscarp. This day the Clergy began to work with others on the Fortifications. In the afternoon 1000. quintals of Powder were brought hither from <hi>Crembs,</hi> and this day General <hi>Starenbergh</hi> delivered in an Esti<g ref="char:EOLhyphen"/>mate of all things necessary for the Siege, which was immedi<g ref="char:EOLhyphen"/>ately sent to the Emperour by his chief Deputy residing here.</p>
+               <p>
+                  <hi>The Word was S.</hi> Vincent <hi>and</hi> Prague.</p>
+            </div>
+            <div type="day">
+               <pb n="11" facs="tcp:94208:9"/>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">day of month </seg>13</label> On the 13. early the Enemy was perceived to march in great Numbers, by the <hi>Wienerburgh</hi> to several places near the Town, set<g ref="char:EOLhyphen"/>ting all on fire, until they came as far as <hi>Moulstrof,</hi> which they also burnt, and between 10 and 11 of the Clock their numbers in<g ref="char:EOLhyphen"/>creased very much, so that about one in the afternoon many thou<g ref="char:EOLhyphen"/>sands of them appeared upon the higher ground, with their faces towards the Town from the <hi>La<g ref="char:EOLhyphen"/>gerholts</hi> to the <hi>Dog-Tower,</hi> and continued there until our Cannon played upon them from the Basti<g ref="char:EOLhyphen"/>ons of <hi>Carinthia, Praun</hi> and of the <hi>Water-works,</hi> and made them re<g ref="char:EOLhyphen"/>treat. Our Cavalry was placed round about in the Counterscarp, and in the ways and passages that lead to the Suburbs and to the Town; all the Suburbs being se on fire, and reduced to Ashes▪
+<pb n="12" facs="tcp:94208:10"/> This day came the Infantry with the Artillery to the Bridges, and were most of them lodged in the Counterscarp. Nothing else con<g ref="char:EOLhyphen"/>siderable happened that day, ex<g ref="char:EOLhyphen"/>cept that our Calvalry had some small skirmishes with the <hi>Turks,</hi> who withdrew further backwards towards their Camp, and were fol<g ref="char:EOLhyphen"/>lowed thither by our Cavalry, ha<g ref="char:EOLhyphen"/>ving left behind them two Letters of Summons, which were deliver<g ref="char:EOLhyphen"/>ed to Count <hi>Starenbergh,</hi> but not answered by him.</p>
+               <p>
+                  <hi>The Word was S.</hi> Andrew <hi>and</hi> Warsaw.</p>
+            </div>
+            <div type="day">
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">day of month </seg>14</label> On the 14. the Enemy enlar<g ref="char:EOLhyphen"/>ged their Camp from the <hi>La<g ref="char:EOLhyphen"/>gerholts</hi> to the <hi>Dog-Tower,</hi> and as far as the <hi>Danube,</hi> and the same Night posted themselves from the <hi>Croats-dorf</hi> to the <hi>Red-Court,</hi> and the 15. at Night, opened their Trenches, about 200. paces from
+<pb n="13" facs="tcp:94208:10"/> the Counterscarp, where the houses had been burnt down, and finished a Battery behind their approaches upon the <hi>Croats<g ref="char:EOLhyphen"/>dorf,</hi> and on the 15. in the Morning began to play their Cannon towards, and upon the Bastion of <hi>the Court.</hi> In the Evening about five of the Clock, a great fire happened in the <hi>Scotch-Court,</hi> which with seve<g ref="char:EOLhyphen"/>ral other houses was quite burnt down, by which mens the Arse<g ref="char:EOLhyphen"/>nal and Tower where the Am<g ref="char:EOLhyphen"/>munition lay, was in very great danger, the fire having actually taken hold of a place where a quantity of Powder was kept, and although the Suburbs and the places there abouts were then burning, whereby the fire might have been communicated to the <hi>Scotch Court;</hi> It is nevertheless not to be doubted from divers Circumstances, that the places
+<pb n="14" facs="tcp:94208:11"/> aforementioned were set on fire on purpose, for which some be<g ref="char:EOLhyphen"/>ing suspected and apprehended, the Burgers were in such a rage, that this and the next day upon small suspicions they killed se<g ref="char:EOLhyphen"/>veral Persons, and broke the arms and legs of others. In the mean time while the Enemy was this day opening and enlarg<g ref="char:EOLhyphen"/>ing their Trenches, Count <hi>Sta<g ref="char:EOLhyphen"/>renburgh</hi> was not backward in setting all hands at work, and particularly in closing the Coun<g ref="char:EOLhyphen"/>terscarp with Palizadoes, and securing the Posts that were at<g ref="char:EOLhyphen"/>tackt near the upper part of the River by the Trenches, as like<g ref="char:EOLhyphen"/>wise the Counterscarp and the Ditch on the side of the enemies approaches with Trenches, Ca<g ref="char:EOLhyphen"/>poniers, and necessary Communi<g ref="char:EOLhyphen"/>cations.</p>
+               <p>
+                  <hi>The Word was S.</hi> Charles <hi>and</hi> Augsburg.</p>
+            </div>
+            <div type="day">
+               <pb n="15" facs="tcp:94208:11"/>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">day of month </seg>15</label> On the 15. in the Night, the Enemy carried on to the <hi>Reilkou<g ref="char:EOLhyphen"/>itz</hi> Gardens, the Trenches which they had made the day before, ad<g ref="char:EOLhyphen"/>ding to them two Lines nearer the Town, whereby their approaches were made good within 60. or 70 Paces of the Outward Angle of the Counterscarp before the Raveling of the <hi>Court-Gate,</hi> and having continued, widened, and mended their Trenches, all that day they played with their Can<g ref="char:EOLhyphen"/>non upon the Town at three pla<g ref="char:EOLhyphen"/>ces, without much damage to our Bastions or Walls.</p>
+               <p>This day the <hi>Dupin-</hi>Regiment of Horse came into the Town; and the Batteries upon the Basti<g ref="char:EOLhyphen"/>ans of <hi>Lebell Carinthia</hi> and the <hi>Court</hi> were put in good forward<g ref="char:EOLhyphen"/>ness, the enemy having placed their Batteries, and pointing their
+<pb n="16" facs="tcp:94208:12"/> Cannon most of all upon the <hi>Lebel</hi> and <hi>Court Bastions.</hi> The three places from which they played their Cannon the day be<g ref="char:EOLhyphen"/>fore, were now joyned together, and one intire Battery made of them, which began at the <hi>Croats<g ref="char:EOLhyphen"/>dorf,</hi> and ended behind the <hi>Kalch<g ref="char:EOLhyphen"/>schmidisch</hi> Gardens. This day Count <hi>Staremburgh,</hi> who had con<g ref="char:EOLhyphen"/>tinually visited the several works, and Posts, taking particular care of every thing, was hurt upon the Head with a Stone by a shot, as he stood upon the Cavalier of the <hi>Lebel</hi> Bastion; which obliged him not to stir abroad for several dayes; during which time Count <hi>Capliers</hi> took the chief care upon him of all that was necessary for the mainte<g ref="char:EOLhyphen"/>nance of the Garrison, carrying on the Works, making good the Defences, and giving orders to the Burgers, and every where else,
+<pb n="17" facs="tcp:94208:12"/> wherein he was chiefly assisted by the Counsellour <hi>Belchamp,</hi> as also by two other Imperial De<g ref="char:EOLhyphen"/>puties.</p>
+               <p>
+                  <hi>The Word was S.</hi> Francis <hi>and</hi> Nurenberg.</p>
+            </div>
+            <div type="day">
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">day of month </seg>16</label> On the 16. in the Night, the Enemy advanced their approach<g ref="char:EOLhyphen"/>es very far, notwithstanding the continual opposition they found, and carried on two new Lines from the <hi>Reilkouitz</hi> Gardens to the Point of the <hi>Court Bastion,</hi> joyn<g ref="char:EOLhyphen"/>ing them in the day time with the Lines they had made before, while we played upon them with our Muskets and great Guns: Besides which, they made a new Battery in the Night upon the High ground, on the left side of the <hi>Red-Court,</hi> playing from thence with 12. Pieces of Ord<g ref="char:EOLhyphen"/>nance upon the <hi>Lebel</hi> Bastion, breaking all our Guns, and killing
+<pb n="18" facs="tcp:94208:13"/> our men. The Enemy as well to Day, as the Night and Day before, continued throwing fiery Bullets and Granadoes, without doing much hurt. And besides the work in the Counterscarp and Ditches, new Platforms were begun upon the Bastions of the <hi>Lebel</hi> and the <hi>Melker,</hi> which were not finished till the next day.</p>
+               <p>In the Night a sally was made on both sides of the Enemies Ap<g ref="char:EOLhyphen"/>proaches, wherein some few of our men, and more of the Ene<g ref="char:EOLhyphen"/>mies were killed and wounded, &amp; their works put to some stop. This day the Infantry was lodg<g ref="char:EOLhyphen"/>ed upon the Bastions.</p>
+               <p>
+                  <hi>The Word was S.</hi> Anthony <hi>and</hi> Grats.</p>
+            </div>
+            <div type="day">
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">day of month </seg>17</label> On the 17. the Enemy did not make any considerable advance in their Approaches, having only
+<pb n="19" facs="tcp:94208:13"/> raised a new Battery on the left hand of the <hi>Red-Court.</hi> This day and the Night before, the Enemy made their passage over to the <hi>Pr<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>er</hi> and <hi>Leopoldstadt,</hi> depri<g ref="char:EOLhyphen"/>ving us thereby of all further com<g ref="char:EOLhyphen"/>munication with our Cavalry. This day they played their Can<g ref="char:EOLhyphen"/>non and Bombes warmly, but without much damage: Nor were we idle on our parts, with our Cannon and throwing of Stones. In the Night, towards the 18. the Enemy made some advance in their Trenches on both sides, giving them breadth, not<g ref="char:EOLhyphen"/>withstanding the opposition we continually made with our hand-Granadoes and other Arms. This day we began to make use of our Bombes, finding that the Stones we had thrown before, had not much annoyed the Enemy in their works, where they had covered themselves. This Day
+<pb n="20" facs="tcp:94208:14"/> Colonel <hi>Werner</hi> came into the Town.</p>
+               <p>
+                  <hi>The Word was S.</hi> Leopold <hi>and</hi> Vienna.</p>
+            </div>
+            <div type="day">
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">day of month </seg>18</label> On the 18. early, and all the day, the Enemy as before, played upon us with their heavy Can<g ref="char:EOLhyphen"/>non and Granadoes, without do<g ref="char:EOLhyphen"/>ing us any hurt. In <hi>Leopoldstadt</hi> on the Water side, from the Bridge to the Streets, the Enemy finished a Traverse, and retrenched themselves, and in the Night ad<g ref="char:EOLhyphen"/>vanced their Trenches towards both the Bastions, notwithstand<g ref="char:EOLhyphen"/>ing our Guns and Granadoes, making them broader, and be<g ref="char:EOLhyphen"/>ginning a new Battery not far from the Ravelin of the <hi>Court-gate,</hi> on the left side of the <hi>Red Court▪</hi> which they could not finish, by reason of the disturbance given them from the Bastion of the <hi>Court,</hi> This day a Christian made his
+<pb n="21" facs="tcp:94208:14"/> escape into the Town from the Enemy; but had not much to say, as being taken just as they invested the Town.</p>
+               <p>
+                  <hi>The Word was S.</hi> Peter <hi>and</hi> Rome.</p>
+            </div>
+            <div type="day">
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">day of month </seg>19</label> On the 19. early the Enemy began to play their Cannon more warmly than before, which last<g ref="char:EOLhyphen"/>ed but two hours only, they shoot<g ref="char:EOLhyphen"/>ing afterwards as formerly, into the Town, upon the Emperors Palace, and throwing great quan<g ref="char:EOLhyphen"/>ty of Bombes and Stones. In the night they finished the Bat<g ref="char:EOLhyphen"/>teries wherein they had been hin<g ref="char:EOLhyphen"/>dred the day before, and begun to make their approaches with double lines of Communication against the <hi>Bastions</hi> they attack't; whereupon we made a Sally to disturb them in their works, where Court <hi>Guido</hi> of <hi>Staren<g ref="char:EOLhyphen"/>burgh</hi> and Captain <hi>Stambach</hi> had
+<pb n="22" facs="tcp:94208:15"/> the Command, with good suc<g ref="char:EOLhyphen"/>cess. A Prisoner was then taken, who assured is that the Enemy had above 100000. Fighting men, amongst whom were 10000. <hi>Janisaries,</hi> and 20000. Volun<g ref="char:EOLhyphen"/>tiers, who expected to be made <hi>Janisaries,</hi> and all the rest Ca<g ref="char:EOLhyphen"/>valry; That they conti<g ref="char:EOLhyphen"/>nued to block up <hi>Raab</hi> with 20000. <hi>Janisaries,</hi> and two <hi>Bas<g ref="char:EOLhyphen"/>sa</hi>'s, and did not doubt of ta<g ref="char:EOLhyphen"/>king it, with <hi>Vienna</hi> and other Places. That they had no want of Ammunition, Forrage or. Pro<g ref="char:EOLhyphen"/>visions. This night the Enemy had finished their Retrenchments on the side of the Water, and pla<g ref="char:EOLhyphen"/>ced two Batteries, one upon the water near Count <hi>Berkas</hi> Garden, and the other cross the Streets, having secured the <hi>Traverses</hi> they had made there with two Can<g ref="char:EOLhyphen"/>nons, and placed two Gabions near the water, to plant Cannon
+<pb n="23" facs="tcp:94208:15"/> behind them, wherein neverthe<g ref="char:EOLhyphen"/>less they were obstructed, as were also their Batteries warmly play'd upon, from the <hi>Piber</hi> and the dower port of the River. The Bastion of the Court was very much annoyed by the Ene<g ref="char:EOLhyphen"/>mies Bombes, which they con<g ref="char:EOLhyphen"/>tinued throwing all the Night, and in the Evening about eight a Clock set on fire with a Bombe, the <hi>Great Hall</hi> of <hi>Buchaim,</hi> which however went no further.</p>
+               <p>
+                  <hi>The Word was S.</hi> Anthony <hi>and</hi> Padua.</p>
+            </div>
+            <div type="day">
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">day of month </seg>20</label> On the 20. early, the Enemy play'd as the day before with their Cannon and Bombes, which they continued all that day. And having in <hi>Leopoldstadt</hi> brought Ordiance upon the Batteries which they had made the day before, they began to make use of them, while we on the other
+<pb n="24" facs="tcp:94208:16"/> side brought several heavy Pieces upon the Bastion of <hi>Piber,</hi> ha<g ref="char:EOLhyphen"/>ving this day and in the night prepared the Platforms. We did also finish this day several <hi>Traverses,</hi> Lines and Caponiers towards the River and the Bridges, which we had begun the day and night before, filling up the passages towards the Bridges, which had been broken down or burnt. The Battery which the Enemy the day be<g ref="char:EOLhyphen"/>fore had begun on the left side of the Red-Court was now joyn<g ref="char:EOLhyphen"/>ed with another, which had been made near it, from whence they began to play their Cannon upon the <hi>Lebel</hi> Bastion, which by rea<g ref="char:EOLhyphen"/>son of its narrowness and want of Repair, was more exposed than that of the Court, and ac<g ref="char:EOLhyphen"/>cordingly suffered more damage. This day and the next night seve<g ref="char:EOLhyphen"/>ral Bombes, and stones were
+<pb n="25" facs="tcp:94208:16"/> thrown on both Sides as former<g ref="char:EOLhyphen"/>ly. The Enemy doing us mis<g ref="char:EOLhyphen"/>chief, which we also returned upon them. But they did not that day make any great advance in their Trenches.</p>
+               <p>
+                  <hi>The Word was S.</hi> John <hi>and</hi> Lintz.</p>
+            </div>
+            <div type="day">
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">day of month </seg>21</label> On the 21. the Enemy, as usual, begun very early to play their Cannon, and to throw their Bombes, which they continued all that day, when it was perceived, (as Count <hi>Starenburgh</hi> was also assured from other hands) that the Enemy now made use of heavier Pieces than before. On the up<g ref="char:EOLhyphen"/>per part of the <hi>Lebel</hi> Bastion Co<g ref="char:EOLhyphen"/>lonel <hi>Geschwind</hi> by order of Count <hi>Starenburgh,</hi> placed great defences of Wood, the better to secure our men and Ordnance from the Shot of the Enemy,
+<pb n="26" facs="tcp:94208:17"/> which came very thick upon us, so likewise did we for the same reason break down part of the <hi>Parapet,</hi> making convenient places for our Guns to play through. This Night a Messen<g ref="char:EOLhyphen"/>ger came from the Duke of <hi>Lor<g ref="char:EOLhyphen"/>rain,</hi> who besides other news, gave us assurance of Succours. The Garrison this day received half a months pay; and the Burgers put themselves into bet<g ref="char:EOLhyphen"/>ter order, so many Companies of them being appointed, some for the care of the Fires, others for the Works. The Students also divided themselves into Companies, and took the charge of a certain Post. The Enemy on the other side of the River, pro<g ref="char:EOLhyphen"/>ceeded further with their Lodg<g ref="char:EOLhyphen"/>ments, and continued to play their Cannon and Bornbes, which did not do us much more harm than throwing down some
+<pb n="27" facs="tcp:94208:17"/> Houses; the Enemy making no advance against the two Bastions, which they had at<g ref="char:EOLhyphen"/>tacked.</p>
+               <p>
+                  <hi>The Word was S.</hi> Philip <hi>and</hi> Madrid.</p>
+            </div>
+            <div type="day">
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">day of month </seg>22</label> On the 22. the Enemy began a fresh with their Cannon and Bombes, but continued not long, nor had they made the Night before any advance in their attacks, they remaining more still than ordinary. This day we received Intelligence by one sent out from the Ene<g ref="char:EOLhyphen"/>mies Camp by the Imperial Resident; and the Burgers brought in some Cattle.</p>
+               <p>
+                  <hi>The Word was S.</hi> Leopold <hi>and</hi> Vienna.</p>
+            </div>
+            <div type="day">
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">day of month </seg>23</label> The 23. early, and the fore<g ref="char:EOLhyphen"/>going Nght, the Enemy kept their usual course, but soon left
+<pb n="28" facs="tcp:94208:18"/> of shooting, and held themselves quiet all the day, the reason of which we did not understand un<g ref="char:EOLhyphen"/>til 7. in the Evening, when they unexpectdely spring two Mines at both points of their Attacks towards the outward Angle of the Counterscarp, before the <hi>Lebel</hi> and <hi>Court</hi> Bastions, and thereupon in both those places made three storms, but were e<g ref="char:EOLhyphen"/>very time beaten off by us, so that they did not gain an Inch of ground without great loss. The Night after, they behaved them<g ref="char:EOLhyphen"/>selves as formerly, widening their Trenches on both sides of the two Bastions, where they formed their attacks, which they did in order to inclose and inviron them.</p>
+               <p>
+                  <hi>The Word was S.</hi> Peter <hi>and</hi> Rome.</p>
+            </div>
+            <div type="day">
+               <pb n="29" facs="tcp:94208:18"/>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">day of month </seg>24</label> The <hi>24th.</hi> The <hi>Enemy</hi> conti<g ref="char:EOLhyphen"/>nued playing their <hi>Cannon</hi> and <hi>Granadoes,</hi> and throwing of Stones. Towards <hi>Noon</hi> Count <hi>Starembergh</hi> had Intelligence, that the <hi>Enemy</hi> was <hi>Mining</hi> at the <hi>Red Tower</hi> near the Bridge, whither his Excellency did not only send his two <hi>Adjutants</hi> for <hi>Information,</hi> but went thither himself, notwithstanding his <hi>In<g ref="char:EOLhyphen"/>disposition,</hi> and upon search found it to be a False Alarm, and <hi>Pa<g ref="char:EOLhyphen"/>nick fear</hi> of some Burgers, who imagined they heard the <hi>Enemy</hi> Mining near their Cellars. How<g ref="char:EOLhyphen"/>ever, it was perceived that they were Mining the <hi>Counterscarpe</hi> on both sides of the <hi>Bastions</hi> they were attacking, which put us up<g ref="char:EOLhyphen"/>on <hi>Countermining</hi> them. The rest of the Day and Night following, all was quiet.</p>
+               <p>
+                  <hi>The Word was St.</hi> Anthony, <hi>and</hi> Padua.</p>
+            </div>
+            <div type="day">
+               <pb n="30" facs="tcp:94208:19"/>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">day of month </seg>25</label> On the <hi>25th.</hi> The <hi>Enemy</hi> began as at other times with their <hi>Can<g ref="char:EOLhyphen"/>non</hi> and <hi>Bombes,</hi> but were pretty still the rest of the day, except on the side of <hi>Leopoldstat</hi> where <hi>Bombes</hi> were thrown. Between four and five of the Clock, the <hi>Enemy</hi> Sprung a Mine upon the <hi>Counterscarpe</hi> on the right Face of the Ravelin of the Court Gate, to<g ref="char:EOLhyphen"/>wards which they had continued their Approaches, and thereupon began a Storm, but were three times couragiously beaten off, some of Ours having lodged themselves in their formost Lines. In this Action several Persons of Note were killed: Major Gene<g ref="char:EOLhyphen"/>ral <hi>Count Sereni</hi> gave herein a sig<g ref="char:EOLhyphen"/>nal proof of his Conduct and Va<g ref="char:EOLhyphen"/>lour, nor was <hi>Count Staremburgh</hi> himself exposed to less danger, be<g ref="char:EOLhyphen"/>ing again wounded in the hand with a Stone while he was even at that time visiting the Retrench<g ref="char:EOLhyphen"/>ments,
+<pb n="31" facs="tcp:94208:19"/> Caponiers, and other Works in the Ditch, and advan<g ref="char:EOLhyphen"/>ced Posts. The <hi>Enemy</hi> made no further Progress that Night, but only widened their Trenches.</p>
+            </div>
+            <div type="day">
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">day of month </seg>26</label> The <hi>26th</hi> early they began with their <hi>Cannon</hi> and <hi>Bombes,</hi> but were more quiet than ordi<g ref="char:EOLhyphen"/>nary the rest of the day; which made us suspect they intended to <hi>Spring a Mine</hi> and return to the Attack. This day the <hi>Enemy</hi> be<g ref="char:EOLhyphen"/>gan a Battery in the Gardens be<g ref="char:EOLhyphen"/>fore the <hi>Red Court,</hi> and to fix Platforms thereabouts for playing their <hi>Cannon</hi> against the <hi>Bastions</hi> of the <hi>Lebel</hi> and <hi>the Court,</hi> where<g ref="char:EOLhyphen"/>in they were obstructed from those <hi>Bastions.</hi> About Five of the Clock in the Afternoon we Sprung a Mine without the <hi>Coun<g ref="char:EOLhyphen"/>terscarp</hi> on the right Face of the Ravelin of the Court Gate, which did not succeed as it ought. Soon
+<pb n="32" facs="tcp:94208:20"/> after, the <hi>Enemy</hi> shot with an Ar<g ref="char:EOLhyphen"/>row into the Ravelin of the Court Gate, the same Letters which some days past had been sent out of the Town to his Imperial Ma<g ref="char:EOLhyphen"/>jesty, and the Duke of <hi>Lorrain,</hi> with an Addition of some <hi>Latine</hi> words, expressing, <hi>That we needed not write in</hi> Cypher, <hi>since the Miserable condition of</hi> Vienna <hi>was well known to all the World, which was but a just Punishment for Our having irritated the</hi> Turkish <hi>Emperour.</hi> All that Night the <hi>Enemy</hi> kept themselves more still than ordinary, and the same Night the Duke of <hi>Lorrain</hi> marched further off from the Bridges.</p>
+               <p>
+                  <hi>The Word was St.</hi> Phillip <hi>and</hi> Madrid.</p>
+            </div>
+            <div type="day">
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">day of month </seg>27</label> On the <hi>27th.</hi> The <hi>Enemy</hi> used their <hi>Cannon</hi> and <hi>Bombes</hi> less than ordinary. About Four of the
+<pb n="33" facs="tcp:94208:20"/> Clock they stormed the outward Angle of the Counterscarp of the <hi>Court Bastion,</hi> in the same place where they sprung a Mine on the 23<hi>d.</hi> but were repulsed with loss of their Men.</p>
+               <p>
+                  <hi>The Word was St.</hi> John <hi>and</hi> Crembs.</p>
+            </div>
+            <div type="day">
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">day of month </seg>28</label> On the <hi>28th.</hi> In the Morning, they play'd their <hi>Cannon</hi> against the <hi>Lebel-Bastion</hi> from their New Battery near the Brick-kills, which they had begun to raise on the <hi>26th.</hi> wherein they, behaved themselves with more warmth than the day before, especially in throwing their <hi>Bombes.</hi> This day a Trooper of ours that had been taken, made his Escape into the Town, but could not give us much Intelligence. The rest of the day they did little, the Night being spent in securing and wide<g ref="char:EOLhyphen"/>ning their Trenches, and in carry<g ref="char:EOLhyphen"/>ing
+<pb n="34" facs="tcp:94208:21"/> them on to the Counterscarp, and on both sides of it.</p>
+               <p>
+                  <hi>The Word was St.</hi> Mary and Loretto.</p>
+            </div>
+            <div type="day">
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">day of month </seg>29</label> On the <hi>29th.</hi> The <hi>Enemy</hi> play'd their Cannon from a new Battery on the left side of the Garden of the <hi>Red Court,</hi> which they had prepared the day and Night be<g ref="char:EOLhyphen"/>fore with <hi>Gabions,</hi> but continued it not long, keeping themselves quiet there, as well as at their o<g ref="char:EOLhyphen"/>ther Batteries, but they did not cease, however, to throw their <hi>Bombes.</hi> In the <hi>Afternoon</hi> be<g ref="char:EOLhyphen"/>tween Four and Five of the Clock, the <hi>Enemy</hi> sprung a Mine with Success, at the outward An<g ref="char:EOLhyphen"/>gle of the Counterscarp of the Ravelin of the <hi>Court Gate,</hi> which raised our three Ranks of <hi>Paliza<g ref="char:EOLhyphen"/>does,</hi> and buried some of our Men, but they did not second it with an Assault, nor undertook any thing
+<pb n="35" facs="tcp:94208:21"/> further, while on the other side Our Men begun immediately to fix their <hi>Palizadoes,</hi> which they secured that Night, during which the <hi>Enemy</hi> continued pretty quiet, endeavouring only to widen and secure their Lines.</p>
+               <p>
+                  <hi>The Word was St.</hi> Charles <hi>and</hi> Brussels.</p>
+            </div>
+            <div type="day">
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">day of month </seg>30</label> On the <hi>30th.</hi> Early they be<g ref="char:EOLhyphen"/>gan for the first time to play their Cannon upon the <hi>Court Bastion</hi> from the new Battery, in the Gar<g ref="char:EOLhyphen"/>den of the <hi>Red Court,</hi> which they had begun to build on the <hi>26th.</hi> but were hindred by the <hi>Cannon</hi> of the <hi>Court Bastion,</hi> shooting also more warmly to<g ref="char:EOLhyphen"/>wards the <hi>Bastion</hi> of the <hi>Lebel,</hi> but soon discontinued, in as much as Our <hi>Cannon</hi> play'd upon them as well from the <hi>Bastions</hi> of the Court and of the <hi>Lebel,</hi> as from the left Courtain, where on the
+<pb n="36" facs="tcp:94208:22"/>
+                  <hi>25th.</hi> three Pieces of Ordnance had been set, but the <hi>Enemies</hi> nevertheless applyed themselves more warmly to the <hi>Lebell Bastion,</hi> and got the Advantage of it by reason of its narrowness and want of room to place <hi>Cannon</hi> conveniently upon it. In the <hi>Afternoon</hi> the <hi>Enemy</hi> Sprung a Mine without doing Us more mis<g ref="char:EOLhyphen"/>chief than the loss of three Men. About Eight of the Clock in the <hi>Evening,</hi> We Sprung a Mine in the same place, but without suc<g ref="char:EOLhyphen"/>cess. And it then also happened, that the <hi>Enemy</hi> threw a <hi>Bombe</hi> up<g ref="char:EOLhyphen"/>on the <hi>Court Bastion,</hi> which fell upon one of Our Mortar▪Pieces, and set fire to Our <hi>Bombes,</hi> it be<g ref="char:EOLhyphen"/>ing observed that they <gap reason="illegible" resp="#oxf" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the <hi>Enemies Trenches,</hi> and did there very good Execution. In the Night they did not shoot much, or do any thing considerable.</p>
+               <p>
+                  <hi>The Word was St.</hi> Paul, <hi>and</hi> Gratz.</p>
+            </div>
+            <div type="day">
+               <pb n="37" facs="tcp:94208:22"/>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">day of month </seg>31</label> On the <hi>31th.</hi> About Seven in the Morning, the <hi>Enemy</hi> begun to shoot more warmly upon the <hi>Court Bastion</hi> from the Battery in the Garden of the <hi>Red</hi> Court, spoiling three Carriages upon the <hi>Court Bastion.</hi> It being also sup<g ref="char:EOLhyphen"/>posed, the <hi>Enemy</hi> suffered no less damage from several lucky shots that fell amongst them, and made them shoot with two <hi>Cannon</hi> less than at first, and soon after to discontinue firing for the rest of that day; but they did not, how<g ref="char:EOLhyphen"/>ever, forbear to throw some Bom<g ref="char:EOLhyphen"/>bes upon the <hi>Court Bastion,</hi> which giving fire to a Mortar-Piece, raised the Bombes out of it. All the Night We were kept in conti<g ref="char:EOLhyphen"/>nual Alarm by the <hi>Enemy,</hi> who fired constantly upon Us, to fa<g ref="char:EOLhyphen"/>vour their design of possessing the <hi>Ditch</hi> of the <hi>Ravelin</hi> which they had Attackt. In the Night
+<pb n="38" facs="tcp:94208:23"/> by Order of <hi>Count Starenburgh,</hi> all the <hi>Cannon</hi> were removed from the <hi>Lebel Bastion,</hi> three of which were placed on the left Courtain of that <hi>Bastion,</hi> where three Pieces were before. The rest were carried on to the lower <hi>Lebel Bastion;</hi> the Ordnance be<g ref="char:EOLhyphen"/>ing not only in the former place too much exposed to the <hi>Enemies Cannon,</hi> which could not be re<g ref="char:EOLhyphen"/>medied, nor could they, by rea<g ref="char:EOLhyphen"/>son of the height of their Situa<g ref="char:EOLhyphen"/>tion, easily play from thence upon the <hi>Enemies</hi> Batteries.</p>
+            </div>
+            <div type="day">
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">day of month </seg>1</label> On the <hi>1st.</hi> of <hi>August,</hi> The <hi>Enemy</hi> was not very busie with their <hi>Cannon</hi> or <hi>Bombes,</hi> nor did they undertake much in the Night, except that they endea<g ref="char:EOLhyphen"/>voured to pull up the Palizadoes of the Counterscarpe before the outward Angle, where they were ill treated by Our Men. This
+<pb n="39" facs="tcp:94208:23"/> day and Night the <hi>Enemy</hi> went about to cast Earth over the Pa<g ref="char:EOLhyphen"/>lizadoes at the Ravelin of the Court, near the Court Bastion, and in this manner they did hope to advance their Lines and Ap<g ref="char:EOLhyphen"/>proaches, wherein they always met with the Couragious Resi<g ref="char:EOLhyphen"/>stance of Our Men, who dispu<g ref="char:EOLhyphen"/>ted the Ground with them, which the <hi>Enemy</hi> could never have gain<g ref="char:EOLhyphen"/>ed, had they not by their <hi>Ʋnder<g ref="char:EOLhyphen"/>mining</hi> forced Us to give way.</p>
+               <p>
+                  <hi>The Word was St.</hi> Leopold <hi>and</hi> Vienna.</p>
+            </div>
+            <div type="day">
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">day of month </seg>2</label> On the 2<hi>d.</hi> of <hi>August,</hi> The <hi>E<g ref="char:EOLhyphen"/>nemy</hi> did as before, and only en<g ref="char:EOLhyphen"/>deavoured to get over the Pali<g ref="char:EOLhyphen"/>zadoes, throwing up much Earth in the same place as the day before. In the <hi>Morning</hi> they played their <hi>Cannon</hi> warmly enough. In the <hi>Afternoon</hi> between Seven and Eight, We Sprung a Mine in the
+<pb n="40" facs="tcp:94208:24"/> Counterscarped just before the Outward Angle of the right Face of the Court <hi>Bastion,</hi> which did reasonable execution, especially by the help of our Bombes which played that way▪ The <hi>Enemy</hi> attempted all that Night to make themselves Masters of the Paliza<g ref="char:EOLhyphen"/>does, whilst some of our Men went out in Parties, and brought towards day, forty or fifty Head of Cattel into the Town En<g ref="char:EOLhyphen"/>deavours were also used to burn the <hi>Enemies</hi> Boats that lay at the Draw-bridge.</p>
+               <p>
+                  <hi>The Word was St.</hi> Francis <hi>and</hi> Florence.</p>
+            </div>
+            <div type="day">
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">day of month </seg>3</label> On the 3<hi>d.</hi> The <hi>Enemy</hi> did not play their <hi>Cannon</hi> so fast, as the day before, and as it had been al<g ref="char:EOLhyphen"/>ready conjectured, so it was con<g ref="char:EOLhyphen"/>firmed by the Observation made this day; That the <hi>Enemy</hi> had no great Provision of Bullets, in as
+<pb n="41" facs="tcp:94208:24"/> much as they shot back, not only Our Bullets, but Pummels of Swords, and all sorts of Iron and Stone. In the Night, about Ten of the Clock, the <hi>Enemy</hi> attack't the Outward Angle of the Coun<g ref="char:EOLhyphen"/>terscarpe before the Ravelin of the Court Gate, lodging and se<g ref="char:EOLhyphen"/>curing themselves in the Counter<g ref="char:EOLhyphen"/>scarpe; which altho it was long disputed, and the <hi>Enemy</hi> beaten out of it four times, We were at length nevertheless obliged to leave it in their possession. The <hi>Enemy</hi> continued firing all the Night, and this day we saw them change their Camp, and burn part of it, and many of their Troops march the same way from whence they came.</p>
+            </div>
+            <div type="day">
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">day of month </seg>4</label> On the <hi>4th.</hi> In the <hi>Morning</hi> we begun on Our side to destroy the <hi>Enemies Lodgment</hi> on the Coun<g ref="char:EOLhyphen"/>terscarp, which we performed
+<pb n="42" facs="tcp:94208:25"/> that day, by the help of Our <hi>Cannon,</hi> which played from all parts; and we likewise, pull'd up and burnt their Palizadoes, so that they could not go on with their Works all that day, nor were they idle on their parts with their <hi>Cannon,</hi> tho without much da<g ref="char:EOLhyphen"/>mage to Us. In the <hi>Evening</hi> about Seven of the Clock, We Sprung two Mines before the <hi>Lebel-Basti<g ref="char:EOLhyphen"/>on,</hi> with good effect. This day likewise, a <hi>Polander</hi> got in to the Town, and brought News that Our Friends had the day before enga<g ref="char:EOLhyphen"/>ged with the <hi>Enemy,</hi> as they were going abroad with 2000 Men, to make their Observations; and that above 1000 of the <hi>Enemy</hi> had been killed. He told Us be<g ref="char:EOLhyphen"/>sides, That the whole Army that was coming to Our succour, was in a Body together near <hi>Laxem<g ref="char:EOLhyphen"/>burgh,</hi> and that a Party of Our Men, had in the Forrest of <hi>Vienna,</hi>
+                  <pb n="43" facs="tcp:94208:25"/> taken the day before 1000 Wa<g ref="char:EOLhyphen"/>gons of Forrage, and put the <hi>Enemy</hi> to flight: That the <hi>Turks</hi> did not intend to stay above Ten days before <hi>Vienna,</hi> having lost the <hi>Bassa</hi> of <hi>Asia Minor,</hi> and a<g ref="char:EOLhyphen"/>nother; and that the <hi>Grand Vi<g ref="char:EOLhyphen"/>sier</hi> was carried every three days in an Iron House, through all their Works and Approaches. The Night following they reco<g ref="char:EOLhyphen"/>vered their Post in the Counter<g ref="char:EOLhyphen"/>scarpe of the Ravelin before the Court Gate, where they had been before, but did not advance any further; for altho between one and two of the Clock, they had made an Assault upon the Outward Angle of the Counter<g ref="char:EOLhyphen"/>scarp, before the Court <hi>Bastion,</hi> they gained no more room than to lodge themselves near the Pali<g ref="char:EOLhyphen"/>zadoes.</p>
+               <p>
+                  <hi>The Word was St.</hi> Erasmus <hi>and</hi> Olmitts.</p>
+               <pb n="44" facs="tcp:94208:26"/>
+               <p>About Break of the Day, we perceived that the <hi>Enemy</hi> had be<g ref="char:EOLhyphen"/>gun to raise a new Battery just over the right Face of the Court <hi>Bastion.</hi>
+               </p>
+            </div>
+            <div type="day">
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">day of month </seg>5</label> On the <hi>5th.</hi> The <hi>Enemies Can<g ref="char:EOLhyphen"/>non</hi> play'd less than the day be<g ref="char:EOLhyphen"/>fore, and it was observed, that they conveyed some of their <hi>Ord<g ref="char:EOLhyphen"/>nance</hi> out of their Camp, proba<g ref="char:EOLhyphen"/>bly against Our Army, which We were informed by a <hi>Turkish</hi> Priso<g ref="char:EOLhyphen"/>ner, was Encamp'd near <hi>Laxem<g ref="char:EOLhyphen"/>burgh;</hi> he having also confirm'd the same Circumstances as the <hi>Polander</hi> had related to us the day before. About Five of the Clock in the <hi>Afternoon,</hi> we sprung a Mine at the Outward Angle of the Counterscarpe, before the Court <hi>Bastion,</hi> without any con<g ref="char:EOLhyphen"/>siderable effect. The <hi>Enemy</hi> was quiet all the Night, but in the Morning We perceived, that they
+<pb n="45" facs="tcp:94208:26"/> were endeavouring to lodge themselves in our Mine, and to come into the Ditch, by <hi>sapping</hi> and <hi>Mining▪</hi> in other places, they having drawn out all their <hi>Troops</hi> early in the <hi>Morning,</hi> in which posture they remained the rest of the day, as they had done the Day and Night before.</p>
+            </div>
+            <div type="day">
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">day of month </seg>6</label> On the <hi>6th.</hi> in the Night, The <hi>Enemy</hi> played very warmly with their <hi>Cannon</hi> and <hi>Bombes,</hi> but dis<g ref="char:EOLhyphen"/>continued soon after, doing no<g ref="char:EOLhyphen"/>thing the whole day. Between 9 and 10 in the <hi>Evening,</hi> they en<g ref="char:EOLhyphen"/>deavoured to come into the Ditch from the Counterscarpe before the Ravelin of the Court Gate, where they had posted themselves; and after having made an Assault, with the help of Sacks full of Sand and Wool, they sprung a Mine before the Counterscarpe on the <hi>Lebel-Bastion,</hi> endeavouring by these
+<pb n="46" facs="tcp:94208:27"/> means to lodge themselves in the Ditch. The Alarm was very great, and the Confusion amongst Us no less in this Action, wherein many were hurt, Lieutenant Co<g ref="char:EOLhyphen"/>lonel <hi>Lesley,</hi> and others, dying soon after of the Wounds here received. The <hi>Enemy,</hi> however, could not gain the Ditch, having only covered themselves half way in the ground on both sides of the Counterscarpe.</p>
+               <p>
+                  <hi>The Word was St.</hi> Anthony <hi>and Padua.</hi>
+               </p>
+            </div>
+            <div type="day">
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">day of month </seg>7</label> On the <hi>7th.</hi> Early they be<g ref="char:EOLhyphen"/>gun to play warmly with their <hi>Cannon,</hi> but left off soon after, undertaking nothing further than to make their Trenches deeper and broader on both sides of the Counterscarpe aforementioned; but in the day time Our Men took away all their Gabions and Woolsacks which they had placed
+<pb n="47" facs="tcp:94208:27"/> there, and particularly before the <hi>Lebel-Bastion.</hi> In the Afternoon about Five of the Clock, the <hi>E<g ref="char:EOLhyphen"/>nemy</hi> sprung a Mine not far from the other they had sprung the day before, in order to make their way more easie upon the Coun<g ref="char:EOLhyphen"/>terscarpe and in the Ditch; but they did not meet with so much success as the day before. In the Night the <hi>Enemy</hi> was pretty quiet, nor were they very busie in their Works.</p>
+               <p>
+                  <hi>The Word was St.</hi> John <hi>and</hi> Lintz.</p>
+            </div>
+            <div type="day">
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">day of month </seg>8</label> On the <hi>8th.</hi> In the Morning they begun to play with three heavy <hi>Canron</hi> from the new Bat<g ref="char:EOLhyphen"/>tery in the <hi>Reikowitz</hi> Gardens, but continued not long, nor did they much damage, we having five Pieces firing against them up<g ref="char:EOLhyphen"/>on the Court <hi>Bastion.</hi> They play'd with their <hi>Bombes</hi> as formerly, and in the <hi>Afternoon</hi> sprung a Mine at
+<pb n="48" facs="tcp:94208:28"/> the Outward Angle of the Coun<g ref="char:EOLhyphen"/>terscarpe before the Court <hi>Bastion,</hi> but without effect, or any further Motion or Attempt. All the Night they were quiet every where, ex<g ref="char:EOLhyphen"/>cept in the Counterscarpe before the Ravelin of the Court Gate.</p>
+            </div>
+            <div type="day">
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">day of month </seg>9</label> On the <hi>9th.</hi> The <hi>Enemy</hi> did not use their <hi>Cannon</hi> much till Eight of the Clock, at which time they sprung another Mine at the Coun<g ref="char:EOLhyphen"/>terscarpe before the Court <hi>Bastion,</hi> making themselves thereby a pas<g ref="char:EOLhyphen"/>sage into the Ditch. By this Mine several of Our Men were blown up and killed, one of whom was thrown upon the Court <hi>Bastion,</hi> this Mine being the most conside<g ref="char:EOLhyphen"/>rable of all they had yet sprung. The <hi>Enemy</hi> nevertheless went no further, tho we saw the Body of Men that were ready for the Storm, or to lodge themselves thereabouts. They did nothing
+<pb n="49" facs="tcp:94208:28"/> more that day, making no advance in their Works in the place where the Mine was Sprung, Our <hi>Cannon</hi> playing continually upon them, but they begun however to enter the Ditch and to carry on their Works there. In the dusk of the <hi>Evening</hi> We made a small Sally be<g ref="char:EOLhyphen"/>fore the Ravelin of the Court Gate, and destroyed the <hi>Enemies</hi> Works in the Ditch; Our Men doing their parts very well, tho with the loss and hurt of many of them. In the Night nothing pas<g ref="char:EOLhyphen"/>sed on either side, except the At<g ref="char:EOLhyphen"/>tempt the <hi>Enemy</hi> made to forward their Works.</p>
+               <p>
+                  <hi>The Word was St.</hi> Thomas <hi>and</hi> Aquinas.</p>
+            </div>
+            <div type="day">
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">day of month </seg>10</label> On the <hi>10th.</hi> The <hi>Enemy</hi> made only some few Shots, and threw as few Bombes, but carried on their Works vigorously on all sides, en<g ref="char:EOLhyphen"/>deavouring to get into the Ditch. About three of the Clock in the
+<pb n="50" facs="tcp:94208:29"/>
+                  <hi>Afternoon</hi> they sprung a Mine be<g ref="char:EOLhyphen"/>fore the <hi>Lebel-Bastion</hi> in the Coun<g ref="char:EOLhyphen"/>terscarpe on the left side near the Ravelin they had attack'd, but meeting with resistance, they were forced to return and <hi>content</hi> them<g ref="char:EOLhyphen"/>selves with the carrying on their Works as before. In the <hi>After<g ref="char:EOLhyphen"/>noon</hi> this Remarkable Passage hap<g ref="char:EOLhyphen"/>pen'd, <hi>The Enemy with a Shot broke off the forepart of one of our Culve<g ref="char:EOLhyphen"/>rins, which being by this means set on fire, discharged it self just as the Gunner stood behind upon the Car<g ref="char:EOLhyphen"/>riage throwing him down backwards without any hurt at all, an Accident not easily believed, if several Per<g ref="char:EOLhyphen"/>sons of Note had not seen it.</hi> About Six in the <hi>Evening</hi> we made a Sal<g ref="char:EOLhyphen"/>ly to destroy the <hi>Enemies</hi> Work in the <hi>Ditch</hi> before the <hi>Ravelin,</hi> which was effected, though with the loss of several of Our Men, nor could we hinder the <hi>Enemy</hi> from lodg<g ref="char:EOLhyphen"/>ing themselves again that Night
+<pb n="51" facs="tcp:94208:29"/>
+                  <gap reason="illegible" resp="#oxf" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n the Ditch, and advancing al<g ref="char:EOLhyphen"/>most as far as the Ravelin.</p>
+               <p>
+                  <hi>The Word was St.</hi> Augustin <hi>and</hi> Vienna.</p>
+            </div>
+            <div type="day">
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">day of month </seg>11</label> On the <hi>11th.</hi> In the <hi>Morning</hi> the <hi>Enemy</hi> play'd their <hi>Cannon</hi> some<g ref="char:EOLhyphen"/>what more briskly than the day before, which they soon disconti<g ref="char:EOLhyphen"/>nued. About Noon they Sprung one <hi>Mine</hi> in the Counterscarp, and in the <hi>Evening</hi> about Six of the Clock, another in the same place, which was all they did. The next Night they used their <hi>Cannon</hi> more than formerly, tho with little ad<g ref="char:EOLhyphen"/>vantage to their Works, except in the Ditch before the Ravelin, which they widen'd a little. A small Sally being made by some of Our Men, under the Command of the Duke of <hi>Wirtenburgh,</hi> the <hi>Enemy</hi> was Chased into their Trenches.</p>
+               <p>
+                  <hi>The Word was St.</hi> Bernard <hi>and</hi> Crembs.</p>
+            </div>
+            <div type="day">
+               <pb n="52" facs="tcp:94208:30"/>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">day of month </seg>12</label> On the <hi>12th.</hi> The <hi>Enemy</hi> used their <hi>Cannon</hi> and their Bombes as the day before, and about 1 or 2 of the Clock in the <hi>Afternoon</hi> they storm'd the <hi>Town,</hi> but retired as soon as they found resistance; in which Assault many were hurt and wounded. Presently after they Sprung another Mine in the Coun<g ref="char:EOLhyphen"/>terscarpe not far from the Ravelin near the face of the Court <hi>Bastion,</hi> without any damage to Us, nor did they then make any farther Attempt. In the Night all was still on both sides, the <hi>Enemy</hi> ad<g ref="char:EOLhyphen"/>vancing not much in their Works, This day the Garrison received a<g ref="char:EOLhyphen"/>nother half Months Pay.</p>
+               <p>
+                  <hi>The Word was St.</hi> Ignatius <hi>and</hi> Inspruck.</p>
+            </div>
+            <div type="day">
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">day of month </seg>13</label> On the <hi>13th.</hi> The <hi>Enemy</hi> in the <hi>Morning,</hi> and the whole day, played their <hi>Cannon</hi> and Bombes warmly enough, but did nothing
+<pb n="53" facs="tcp:94208:30"/> else. This day a Bombe fell upon a half <hi>Cannon</hi> in the Court <hi>Bastion,</hi> breaking and discharging it: There happened nothing in the Night, except much <hi>Rain, Thun<g ref="char:EOLhyphen"/>der,</hi> and <hi>Lightning.</hi>
+               </p>
+               <p>
+                  <hi>The Word was St.</hi> Peter <hi>and</hi> Rome.</p>
+            </div>
+            <div type="day">
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">day of month </seg>14</label> On the <hi>14th.</hi> The <hi>Enemy</hi> did no less with their <hi>Ordnance</hi> and throwing of Stones, than the day before, but without much damage to us, having again struck the forepart of one of our <hi>Cannon</hi> upon the Court <hi>Bastion,</hi> and dis<g ref="char:EOLhyphen"/>charged it. About Six in the <hi>Af<g ref="char:EOLhyphen"/>ternoon</hi> they Sprung a Mine in the Counterscarpe before the Court Gate, on the side of the right face, but to their own hurt, and without any further Attempt. Nothing more happen'd in the Night, except that the <hi>Enemy</hi> ad<g ref="char:EOLhyphen"/>vanced their Works in the Ditch
+<pb n="54" facs="tcp:94208:31"/> before the Ravelin, mending and enlarging their Post.</p>
+               <p>
+                  <hi>The Word was St.</hi> Augustin <hi>and</hi> Inspruck.</p>
+            </div>
+            <div type="day">
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">day of month </seg>15</label> On the <hi>15th.</hi> In the <hi>Morning,</hi> and the whole day, they shot less than the two former dayes, but plyed their Bombes and throwing of Stones much more. About Nine of the Clock in the Fore<g ref="char:EOLhyphen"/>noon they sprang a Mine in the Counterscarpe before the Court <hi>Bastion,</hi> but with little effect, at<g ref="char:EOLhyphen"/>tempting nothing more the rest of the day. In the Night they lodged themselves in the Ditch before the <hi>Lebel-Bastion,</hi> and upon the Berme of the Ravelin, securing and ad<g ref="char:EOLhyphen"/>vancing themselves on that side.</p>
+               <p>
+                  <hi>The Word was St.</hi> Anthony <hi>and</hi> Padua.</p>
+               <p>In the mean while Count <hi>Sta<g ref="char:EOLhyphen"/>renberg</hi> took care to make all ne<g ref="char:EOLhyphen"/>cessary
+<pb n="55" facs="tcp:94208:31"/> Retrenchments, as well upon the Ravelin which was at<g ref="char:EOLhyphen"/>tack'd, as on the other between the <hi>Lebel</hi> and <hi>Mecker Bastion,</hi> as also, the Court and <hi>Lebel-Bastion:</hi> The Curtains were also provided with <hi>Cannon</hi> which play'd Cross-wise for the defence of the Faces of the Court and <hi>Lebel-Bastions,</hi> and of the <hi>Retrenchments</hi> of the Ravelin, which were also garnished as well as the Flanks with <hi>Cannon</hi> for the <hi>Annoyance</hi> of the <hi>Enemy</hi> upon any further Attack.</p>
+            </div>
+            <div type="day">
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">day of month </seg>16</label> On the <hi>16th.</hi> In the <hi>Morning,</hi> and the whole day the <hi>Enemy</hi> play'd their <hi>Cannon</hi> furiously, throwing their Bombes and Stones, and with the last did us great da<g ref="char:EOLhyphen"/>mage. And as for some days past they had made little use of their <hi>Ordnance,</hi> which they plyed this day more warmly; and being like<g ref="char:EOLhyphen"/>wise observed, that several Wag<g ref="char:EOLhyphen"/>gons
+<pb n="56" facs="tcp:94208:32"/> arrived the day before in the Camp, so was it conjectured that they had now furnished <hi>themselves</hi> with <hi>Ammunition,</hi> which they wanted before. The <hi>Enemy</hi> like<g ref="char:EOLhyphen"/>wise this day made a considerable Progress in their Approaches, un<g ref="char:EOLhyphen"/>til 200 of Our Men making a Sally ruin'd their Works in the Ditch before the <hi>Lebel-Bastion,</hi> not ha<g ref="char:EOLhyphen"/>ving above Eight Men of Ours ei<g ref="char:EOLhyphen"/>their killed or wounded, which was the best Sally we had yet made; and about 7 in the <hi>Even<g ref="char:EOLhyphen"/>ing</hi> we sprung a Furnace very ad<g ref="char:EOLhyphen"/>vantagiously in that <hi>Ravelin</hi> which was attack'd, the <hi>Enemy</hi> neverthe<g ref="char:EOLhyphen"/>less recovered their former Post, and secured themselves in it in the Night. About 10 of the Clock they made another Attempt upon the Ditch before the <hi>Lebel-Bastion,</hi> which they attacked, but were beaten off again after half an hours sight, we having likewise set on fire
+<pb n="57" facs="tcp:94208:32"/> all the <hi>Enemies Gabions</hi> and Sacks, which they used in the Ditch for the covering and advancing their Works; which put a stop to the Approaches of the <hi>Enemy,</hi> who begun however to lodge them<g ref="char:EOLhyphen"/>selves upon the Berm of the Rave<g ref="char:EOLhyphen"/>lin. Nothing more passed this Night, during which some Rain fell; this day two Soldiers attemp<g ref="char:EOLhyphen"/>ted to run away to the <hi>Enemy</hi> but were stop'd, as was also a Boy, who had twice carried them In<g ref="char:EOLhyphen"/>telligence. <hi>The Word was St.</hi> Leo<g ref="char:EOLhyphen"/>pold <hi>and</hi> Vienna. This day the <hi>Enemy</hi> opened a Battery of 3 pie<g ref="char:EOLhyphen"/>ces in the Trenches, not far from the Counterscarpe towards the left face of the <hi>Lebel-Bastion,</hi> but did not much execution with them by reason of the 4 whole <hi>Cannon</hi> we had placed upon the Curtain between the <hi>Lebel</hi> and <hi>Court Ba<g ref="char:EOLhyphen"/>stion,</hi> which annoy'd them very much.</p>
+            </div>
+            <div type="day">
+               <pb n="58" facs="tcp:94208:33"/>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">day of month </seg>17</label> On the <hi>17th.</hi> In the Morning and the whole day, the <hi>Enemy</hi> kept playing with their <hi>Cannon</hi> and Bombes as the day before. At <hi>Nine</hi> in the Forenoon we made another Sally in the Ditch before the <hi>Lebel-Bastion,</hi> but without success being forced to retire. About this time it was, that the Messenger we sent for In<g ref="char:EOLhyphen"/>telligence, came back with the good News of certain Relief. In the <hi>Evening</hi> between 7 and 8 the <hi>Enemy</hi> sprung another little Mine in the Ravelin they attack'd, and thereupon made an Assault, but were beaten off after some oppo<g ref="char:EOLhyphen"/>sition. In the Night nothing more happened than that with three Rockets in the Air, we gave the Signal, that Our Informer was ar<g ref="char:EOLhyphen"/>rived.</p>
+               <p>
+                  <hi>The Word was St.</hi> Dominick <hi>and</hi> Nenstadt.</p>
+            </div>
+            <div type="day">
+               <pb n="59" facs="tcp:94208:33"/>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">day of month </seg>18</label> On the <hi>18th.</hi> They shotless with their <hi>Cannon</hi> than the day before. About 8 in the Morning we made a Sally towards the Point of the Attack'd Ravelin, but without success, having taken but one Pri<g ref="char:EOLhyphen"/>soner. Between 5 and 6 in the E<g ref="char:EOLhyphen"/>vening the Enemy sprung another <hi>Mine</hi> at the Point of the Attack'd Ravelin, which they follow'd with a Storm, having fixed 10 of their Colours upon the Ravelin, but were forced to retire soon after, leaving a good number of their <hi>Men</hi> dead upon the place. All the Night we continued to annoy them very much, hindring their Approaches until the 19. About 7 of the Clock we sprung a <hi>Mine</hi> and drove the Enemy quite back.</p>
+               <p>
+                  <hi>The Word was</hi> St. Charles <hi>and</hi> Naples.</p>
+            </div>
+            <div type="day">
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">day of month </seg>19</label> On the <hi>19th.</hi> The Enemy con<g ref="char:EOLhyphen"/>tinued to shoot but little with
+<pb n="60" facs="tcp:94208:34"/> their <hi>Cannon,</hi> not discharging one heavy piece, while we about 7 in the <hi>Morning</hi> sprung a <hi>Mine</hi> at the Point of the Ravelin, which made them retire as before mentioned, many of their <hi>Men</hi> being killed; but with their Bombes and throw<g ref="char:EOLhyphen"/>ing of Stones, they continued to annoy us. All this day the Ene<g ref="char:EOLhyphen"/>my endeavoured to lodge them<g ref="char:EOLhyphen"/>selves near or upon the Ravelin, and in the Afternoon sprung a <hi>Mine</hi> in the Counterscarpe to<g ref="char:EOLhyphen"/>wards the Court <hi>Bastion,</hi> but without effect, or further Attack; after which they begun again to lodge themselves in the <hi>Ditch</hi> be<g ref="char:EOLhyphen"/>fore the <hi>Lebel-Bastion.</hi> This day as the two last, the Enemies Bom<g ref="char:EOLhyphen"/>bes set on fire our <hi>Cannon</hi> and <hi>Mor<g ref="char:EOLhyphen"/>tar-Pieces</hi> 4 times in several places. <hi>The Word was St.</hi> Joachim <hi>and</hi> Wirtlburg. Nothing more passed in the Night, except that we took from them about 50 Head of Cat<g ref="char:EOLhyphen"/>tle.</p>
+            </div>
+            <div type="day">
+               <pb n="61" facs="tcp:94208:34"/>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">day of month </seg>20th.</label> On the 20<seg rend="sup">th</seg>, the Enemy begun to play more fiercely with their Can<g ref="char:EOLhyphen"/>non and Bombs than before, and continued all that Day to use their Bombs against the <hi>Melcker Bastion,</hi> and the <hi>Curtains</hi> of it, as far as the <hi>Lebel Bastion,</hi> and raised a new Bat<g ref="char:EOLhyphen"/>tery of three Pieces of Ordnance in their Trenches, not far from the Counterscarp, and playing from thence, but were disturb'd by our Cannon from the <hi>Melcker Bastion.</hi> Besides which, nothing considera<g ref="char:EOLhyphen"/>ble passed between us, except that they made good their Post again at the Point of the Attack't Rave<g ref="char:EOLhyphen"/>lin. Nothing more happen'd in the Night, than that we saw the Sig<g ref="char:EOLhyphen"/>nals that our Messenger was arri<g ref="char:EOLhyphen"/>ved in their Camp. In the Day the Enemy had begun to make new Lodgments in Count <hi>Herber<g ref="char:EOLhyphen"/>steins</hi> Gardens, and on that side near the Town. The <hi>Word</hi> was, St. <hi>Ignatius,</hi> and <hi>Cloister Nieubergh.</hi>
+               </p>
+            </div>
+            <div type="day">
+               <pb n="62" facs="tcp:94208:35"/>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">day of month </seg>21th.</label> On the 21<seg rend="sup">th</seg> the Enemy plai'd their Cannons and Bombs as usual, and at Eight in the Morning sprung a small Mine towards the <hi>Lebel</hi> Be<g ref="char:EOLhyphen"/>stion, endeavouring nothing more than to lodge themselves in the Ditch, wherein they proceeded very far. About six in the After<g ref="char:EOLhyphen"/>noon they again sprung a Furnace towards the <hi>Lebel</hi> Bastion: And at the same time came a Deserter from the Enemy, who, amongst other things, told us, that they designed about the 27th to shew their Valour in some very extra<g ref="char:EOLhyphen"/>ordinary Action; and this day it happened again, that a Bomb fell upon one of our Pieces, and dis<g ref="char:EOLhyphen"/>charged it without any further damage. The <hi>Word</hi> was, S. <hi>Lewis,</hi> and <hi>Paris.</hi>
+               </p>
+            </div>
+            <div type="day">
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">day of month </seg>22th.</label> On the 22th, the Enemy us'd their Cannon and Bombes as before. Be<g ref="char:EOLhyphen"/>tween 10 and 11 in the Morning we sprung a Mine at the <hi>Ravelin</hi>
+                  <pb n="63" facs="tcp:94208:35"/> with good success, but the Enemy nevertheless lodged themselves there again, and by the means of Sacks advanced their Works, which towards the Evening were ruined by our Cannon from the Curtains. Between Seven and Eight they sprung a Mine in the Counterscarp, near the attack'd Ravelin, towards the right Face of the Court Bastion, in order to make a passage into the Ditch. In the Night the Enemy did no<g ref="char:EOLhyphen"/>thing, but we made three Sallies into the Ditch before the Court Bastion, to disturb their Works, and always with good Success. The <hi>Word</hi> was, St. <hi>George,</hi> and <hi>Presbourg.</hi>
+               </p>
+            </div>
+            <div type="day">
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">day of month </seg>23</label> On the 23. The Enemy play'd their Cannon very little, but their Bombes, and throwing of Stones very much, which did us great hurt. About nine in the morn<g ref="char:EOLhyphen"/>ing our Messenger came again in<g ref="char:EOLhyphen"/>to
+<pb n="64" facs="tcp:94208:36"/> the Town, with assurance of most certain Relief at the End of the Month. All that day the Enemy continued their works at the attack't Ravelin, notwithstanding the op<g ref="char:EOLhyphen"/>position they met with from us. In the Night they advanced their Works very much in the Ditch to<g ref="char:EOLhyphen"/>wards the Court Bastion. The <hi>Word</hi> was, St. <hi>John,</hi> and <hi>Frankfort.</hi>
+               </p>
+            </div>
+            <div type="day">
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">day of month </seg>24th.</label> On the 24th, the Enemy play'd their Cannon more furiously than the day before, throwing their Bombs and fiery Bullets, when our Men found in the attack't Ravelin a Mine of the Enemies. About Noon we perceived that they had set seve<g ref="char:EOLhyphen"/>ral places on fire on the other side the <hi>Danube.</hi> About 9 at Night they endeavour'd to enter into the Ditch before the <hi>Lebel</hi> Bastion, where, af<g ref="char:EOLhyphen"/>ter a sharp Fight they were beaten off, without making any advance in the Ditch. The <hi>Word</hi> was, St. <hi>Nicholas,</hi> and <hi>Stockheraw.</hi>
+               </p>
+            </div>
+            <div type="day">
+               <pb n="65" facs="tcp:94208:36"/>
+               <p>On the 25th, the Enemy did not at first much use their Cannon, and soon afterwards not at all, throwing however their Bombes and Stones. Between three and four in the Afternoon, we made a Salley from the <hi>Lebel-</hi>Bastion, destroying all the Enemies Works there, killing many, and advan<g ref="char:EOLhyphen"/>cing so far that we might have nail'd up their Cannon in their Batteries, if we had been more in number. The Sally lasted a whole hour, and was well execu<g ref="char:EOLhyphen"/>ted on our parts; during which the Enemy sprung a Mine in that very place of the Counterscarp where the Sally was made, which buried some of our men. Count <hi>Sereni</hi> and the Duke of <hi>Wirtem<g ref="char:EOLhyphen"/>burg</hi> escaped very narrowly, and while we were again possessing our selves of the place, the Duke of <hi>Wirtemburg</hi> received a Wound with a Dart, and our men found
+<pb n="66" facs="tcp:94208:37"/> another Mine on the Ravelin. The <hi>Word</hi> was, <hi>St. John,</hi> and <hi>Presbourg,</hi>
+               </p>
+               <p>Nothing considerable happened that night, onely about Nine of the Clock in the Evening a long black Pillar or Beam was seen in the Sky, near the Milky way, lying cross the Enemies Camp, which soon after vanished by degrees.</p>
+            </div>
+            <div type="day">
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">day of month </seg>26</label> On the 26th, between Seven and Eight, the Enemy sprung a Mine, and made an Attack, where they were beaten off with great loss on their side, but soon after undertook to post themselves in the Mine, continuing the whole day to play their Cannon, Bombs and Stones, as before; with the latter of which they did much an<g ref="char:EOLhyphen"/>noy the Court Bastion. Between Eight and Nine in the Evening, they sprung a Mine at the Rave<g ref="char:EOLhyphen"/>lin, which they storm'd, but were soon repulsed by us, so that not
+<pb n="67" facs="tcp:94208:37"/> being able to advance farther than the Mine, they lodged themselves in it, as before. Nothing happen<g ref="char:EOLhyphen"/>ed in the Night. The <hi>Word</hi> was, <hi>St. Jacob,</hi> and <hi>Krembs.</hi>
+               </p>
+            </div>
+            <div type="day">
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">day of month </seg>27</label> On the 27th in the morning and the whole day, the Enemy made some Use of their Cannon, but were more warm with their Bombs and throwing of Stones. About seven of the Clock early, we made a Sally in the Ditch be<g ref="char:EOLhyphen"/>fore the Court Bastion, ruining the Enemies Works, but we were no sooner returned, than they were possessed of them again. Ma<g ref="char:EOLhyphen"/>ny were kill'd on both sides, and One Person of great considerati<g ref="char:EOLhyphen"/>on on theirs, whose Body they took great pains for above an hour to recover out of the Ditch, where the Skirmish was very hot. About Five in the Evening, the Enemy sprung two Mines, one
+<pb n="68" facs="tcp:94208:38"/> on the left side of the attack'd Ravelin, the other in the Coun<g ref="char:EOLhyphen"/>terscarp, before the right Face of the Court Bastion. Upon the first whereof, we made an Assault, but were unfortunately beaten off, where <hi>Collonel Scherffenberg,</hi> as up<g ref="char:EOLhyphen"/>on other Occasions, behaved himself very well: the other Mine wounded only 1 or 2 Men, whom they took away with them into their Trenches after some loss on their side. This day they began to play their Can<g ref="char:EOLhyphen"/>non during the time of their Pray<g ref="char:EOLhyphen"/>ers, more warmly then at any time before, having omitted it for three weeks past, which allarm'd us very much. In the Night we gave signals to our Friends, by throwing Roc<g ref="char:EOLhyphen"/>kets in the Air. The Word was, St. <hi>Mary,</hi> and <hi>Laa.</hi>
+               </p>
+            </div>
+            <div type="day">
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">day of month </seg>28</label> On the 28th the Enemy played their Cannon and Bombs, as usual. Between six and seven in the Morn<g ref="char:EOLhyphen"/>ning
+<pb n="69" facs="tcp:94208:38"/> fell much rain, so that no action hapned. Between four and five in the Afternoon, the Enemy sprung a Mine on the right hand of the Ravelin, which they seconded with an Attack, but were repulsed by our Men, and by our Cannon, which were loaden with Cartrages. In the Afternoon they lodged themselves in the middle of the Ditch before the Court Bastion. In the Night we gave other signals by Rockets in the Air, and nothing else passed more then that the Enemy continued to advance their Works in the Ditch. The <hi>Word</hi> was</p>
+               <p>
+                  <hi>St. Thomas,</hi> and <hi>Grats.</hi>
+               </p>
+            </div>
+            <div type="day">
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">day of month </seg>29</label> On the 29th in the Morning, the Enemy made not so much use of their Cannon as the day before, and after<g ref="char:EOLhyphen"/>wards did not shoot at all, but conti<g ref="char:EOLhyphen"/>nued throwing Bombs and Stones. Between nine and ten a Clock they sprung a Mine as far as the last Re<g ref="char:EOLhyphen"/>trenchment of the Ravelin, without any farther Assault. About twelve of the Clock they sprung another Mine, in the Counterscarp before the right face of the Court Bastion, making no
+<pb n="70" facs="tcp:94208:39"/> other use of it then to facilitate their Descent into the Ditch. All this day it rained a little, which hindred not the Enemy from advancing their Works. Nothing hapned more that Night. The Word was</p>
+               <p>St. <hi>Ignatius,</hi> and <hi>Raab.</hi>
+               </p>
+            </div>
+            <div type="day">
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">day of month </seg>30</label> On the 30th in the Morning, The Enemy began to play their Cannon as the day before, but used their Bombs and throwing of Stones much more warmly, as they did their fiery Bullets, which they continued the whole day proceeding always on their Works. In the Night they made three several Assaults upon the Rave<g ref="char:EOLhyphen"/>lin but without success. The <hi>Word</hi> was</p>
+               <p>St. <hi>Thomas</hi> and <hi>Lintz</hi>
+               </p>
+            </div>
+            <div type="day">
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">day of month </seg>31</label> One the 31th, the Enemy played their Cannon after the same manner as the day before. About noon they sprung a Mine on the right side of the Ravelin, and another in the After<g ref="char:EOLhyphen"/>noon upon the Counterscarp before the face of the Court-Bastion, but made no farther Attempt in either place, than only to prepare their way into
+<pb n="71" facs="tcp:94208:39"/> the Ditch and to widen it. In the after<g ref="char:EOLhyphen"/>noon we saw the Enemy take their Cannon out of their Works, and we heard a Shooting on the side of the Forrest: the Enemy nevertheless con<g ref="char:EOLhyphen"/>tinued their Works both day and night; and our Messenger returned to Us with full assurance of Succour. The <hi>Word</hi> was, St. <hi>George,</hi> and <hi>Ʋlm.</hi>
+               </p>
+            </div>
+            <div type="day">
+               <p>
+                  <note place="margin">
+                     <hi>Sept.</hi> 1.</note>On the first of September, the Enemy played their Cannon more warmly than before, as they did their Bombs and Stones, carrying on their Works vigorously on all sides, about twelve of the Clock they left off shoot<g ref="char:EOLhyphen"/>ing, and then we made a sally in the Ditch before the Court-bastion, wherein we had no great Success. To<g ref="char:EOLhyphen"/>wards the Evening, and the same night they made their way over the Ditch of the Lebel-bastion, notwithstanding the endeavours we had used from those Bastions to keep them off with our Bombs and Stones. This day we gave more signals by Rockets in the Air.</p>
+            </div>
+            <div type="day">
+               <pb n="72" facs="tcp:94208:40"/>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">day of month </seg>2</label> On the second in the morning, the Enemy sprung a Mine at the point of the Court-bastion, which, although it had not the intended Success, yet it opened to them a way to a better Mine, they behaving themselves as the day before with their Cannon, Bombs, and throwing of Stones. About ten of the Clock in the fore-noon, we made a small Sally towards the Lebel-bastion, in order to hinder the progress of their Mine at the face of it, wherein we lost many of our Men; That day and the night following, the Enemy advanced their Works in all places, and in the night about ten of the Clock, the Caponiers we had made near the Lebel-bastion were set on fire, and then we gave signals in the usual manner. The word was, St. <hi>Barbara,</hi> and <hi>Gratz.</hi>
+               </p>
+            </div>
+            <div type="day">
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">day of month </seg>3</label> On the third, the Enemy did not make much fire with their Cannon, but continued throwing of stones, whereby they did us great damage; That day and the night before, we were ingaged with the Enemy in the Lines near the Bastion of the Court,
+<pb n="73" facs="tcp:94208:40"/> and gave vent to one of their Mines; the same day we took some Prisoners and Cattel. In the afternoon we heard the noise of Cannon, and the Garrison received half a Months pay. It rain<g ref="char:EOLhyphen"/>ed the rest of the day, and in the af<g ref="char:EOLhyphen"/>ternoon, eight Storks were seen flying over the Town from the <hi>Kalten Bergh,</hi> which was taken for a good Omen: at night about ten of the Clock, we a<g ref="char:EOLhyphen"/>bandoned and set on fire the Ravelin, and Caponiers we had made on both sides of it, wherein the Enemy imme<g ref="char:EOLhyphen"/>diatly lodged and covered themselves, advancing their works both there and in all other places. We likewise threw several Rockets into the Air for sig<g ref="char:EOLhyphen"/>nals. The word was, St. <hi>Charles,</hi> and <hi>Naples.</hi>
+               </p>
+            </div>
+            <div type="day">
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">day of month </seg>4</label> On the fourth, they did not use their Cannon at all, but onely threw Stones in great abundance, and some Bombs. About three of the Clock in the after<g ref="char:EOLhyphen"/>noon they sprung a great Mine at the Court-bastion which blew up a great part of the right Face of it, from the very point, and thereupon made an As<g ref="char:EOLhyphen"/>sault which lasted an hour and half, and
+<pb n="74" facs="tcp:94208:41"/> lodged themselves in it, many being killed and wounded on both sides. <hi>Count Staremberg</hi> and other Officers of chiefest note were present, it being just at the time of the usual releif; we continued all the while to play our Cannon with Cartridges which did the Enemy most hurt at this and all o<g ref="char:EOLhyphen"/>ther Attacks they made; they never<g ref="char:EOLhyphen"/>theless carried on their works vigo<g ref="char:EOLhyphen"/>rously at the Lebel-bastion and at the Ravelin and Caponiers, which we had abandoned, whilst we on the o<g ref="char:EOLhyphen"/>ther hand continued working at our Retrenchments, having inlarged and strengthened them. Before noon it rained much. In the night we repeat<g ref="char:EOLhyphen"/>ed our signals with more Rockets than before, and sent a Messenger to bring Intelligence. The word was, St. <hi>Dominic,</hi> and <hi>Stratsburg.</hi>
+               </p>
+            </div>
+            <div type="day">
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">day of month </seg>5</label> On the 5th, the Enemy shot again with their heavy Cannon, which they had not used for a long time, continu<g ref="char:EOLhyphen"/>ing their Bombs and throwing of Stones; in the afternoon about six of the clock they endeavoured to lodge themselves more deeply in the Mine
+<pb n="75" facs="tcp:94208:41"/> of the Court-bastion, and were re<g ref="char:EOLhyphen"/>pulsed, but advanced their works ve<g ref="char:EOLhyphen"/>ry far in the abandoned Ravelin, and in the Ditch thereabouts, as also in the Caponiers near the Lebel-bastion. The word was, St. <hi>Dominick,</hi> and <hi>Passaw.</hi>
+               </p>
+            </div>
+            <div type="day">
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">day of month </seg>6</label> On the 6th in the morning, and the whole day, the Enemy continued playing their Cannon, Bombs and Stones as the day before. About one of the clock in the afternoon, both the faces of the Lebel-bastion were quite thrown down by their Mines, which they seconded with an Assault, but were forced to forsake them; as well because the place was not proper for an At<g ref="char:EOLhyphen"/>tack, as that we made a vigorous Op<g ref="char:EOLhyphen"/>position with our Cannon and Men; the whole night the Enemy carried on their works in the Ditch before the Ravelin of the Courtains; we gave them signals as before, enlarging at the same time, and securing of our Tren<g ref="char:EOLhyphen"/>ches, and making several Batteries up<g ref="char:EOLhyphen"/>on the <hi>Spanish-</hi>bastion towards the Cur<g ref="char:EOLhyphen"/>tains, at the <hi>Paradiae</hi> garden, and other places near our Retrenchments. The word was, St. <hi>Jacob,</hi> and <hi>Cologne.</hi>
+               </p>
+            </div>
+            <div type="day">
+               <pb n="76" facs="tcp:94208:42"/>
+               <p>On the 7th early, the Enemy be<g ref="char:EOLhyphen"/>gan to shoot with their heavy Ord<g ref="char:EOLhyphen"/>nance more than before, but continu<g ref="char:EOLhyphen"/>ed not above two hours, till the after<g ref="char:EOLhyphen"/>noon, when they began to use their Cannon again, but chiefly their Bombs, and throwing of Stones, and proceeded on their Works that day, and in the Night, and particularly in the Ditch before the Ravelin. In the Night we saw Fire and Rockets, supposed to be from the Army that came to our Relief, which made us return our signals in the same man<g ref="char:EOLhyphen"/>ner. The <hi>Word</hi> was, St. <hi>Paul.</hi>
+               </p>
+            </div>
+            <div type="day">
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">day of month </seg>8</label> On the 8th, the Enemy did not shoot so much as the day before, but threw their Bombes and Stones much more, and advanced their Works in the Ditch so far, that in the After<g ref="char:EOLhyphen"/>noon about four of the Clock they sprung two Furnaces at the lower flank of the <hi>Lebel-</hi>bastion, and there<g ref="char:EOLhyphen"/>upon made an assault with a conside<g ref="char:EOLhyphen"/>rable number of Men; but at both times found an unwelcom reception from our Ordnance, that were charg<g ref="char:EOLhyphen"/>ed
+<pb n="77" facs="tcp:94208:42"/> with Cartridges. Several of our Officers of Note being wounded in the Action. In the Afternoon we fix't a Petard in the Countermine at the Court-bastion, to give vent to a Mine of the Enemies, wherein we had no success. Towards noon and afterwards we perceived a great alteration in the Enemies Camp, but whether it hap<g ref="char:EOLhyphen"/>pened upon the approach of our Suc<g ref="char:EOLhyphen"/>cours we could not learn. All the Night we observed many Fires through the Enemies Guards, which appeared upon the Hills thereabouts: Towards the Evening their time of Prayers was kept with the discharge of their Guns more than at any time be<g ref="char:EOLhyphen"/>fore, and in the Night they advan<g ref="char:EOLhyphen"/>ced their works towards the left Flank, and in the Lines of Communication. In the Night many Rockets were thrown. The <hi>Word</hi> was, St. <hi>Philip,</hi> and <hi>Madrid.</hi>
+               </p>
+               <p>All this while Count <hi>Staremberg</hi> took care to secure as well the attack't Curtain, as both the Bastions with with new Refreshments, fortifying the Houses and Streets in the Town with Chains and Barricadoes, and raising
+<pb n="78" facs="tcp:94208:43"/> Batteries, that in every Place and upon all occasions the Enemy might find the best resistance possible.</p>
+            </div>
+            <div type="day">
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">day of month </seg>9th.</label> On the 9th they threw their Bom<g ref="char:EOLhyphen"/>bes and Stones in the same manner as the day before, and so continued the rest of the day. Towards noon we saw most of the Enemies Troops stand in Battalia towards the Forrest, and the <hi>Callemberg,</hi> and others breaking down their Tents, and removing or changing their Camp, as we supposed, by reason of our approaching succours. About ten of the Clock a Prisoner was brought in hither, who gave us an Account of the Enemies great Consternation: Notwithstanding all which they frequently continued shooting with their Cannon, and throwing their Bombes and Stones, advancing their Works and Mines to<g ref="char:EOLhyphen"/>wards the Tower, Flank and Curtain, having drawn the rest of their men towards the Hills, where they stood in good Order. The Word was, St. <hi>Margaret,</hi> and <hi>Olmik.</hi>
+               </p>
+               <p>In the Night about ten of the Clock they possessed themselves of the lower flank, and of a part of the line of Com<g ref="char:EOLhyphen"/>munication,
+<pb n="79" facs="tcp:94208:43"/> after having made three Assaults, they beginning also to mine in three Places, at the Curtain, ad<g ref="char:EOLhyphen"/>vancing their Works and Mines at the two Bastions they had attack't. This day before Noon a White Pige<g ref="char:EOLhyphen"/>on flew out of the Enemies Camp into the Town, which was taken for a Good Omen.</p>
+            </div>
+            <div type="day">
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">day of month </seg>10</label> On the 10th the Enemy played their Cannon less than the day before, but did not discontinue their Bombes and throwing of Stones, nor their Mines at the Curtain, advancing their Works every where with great Vigor. In the Night, about eleven of the Clock they sprung a Mine at the Court Bastion on the right side of the former, but without much Effect, except that they made their way there<g ref="char:EOLhyphen"/>by to the chief Mine, continuing their Works, wherein they met with great Obstruction from the Bombes that were thrown. In the Night divers signals were given by Rockets as formerly. The Word was</p>
+               <p>St. <hi>Thomas,</hi> and <hi>Florence.</hi>
+               </p>
+            </div>
+            <div type="day">
+               <pb n="80" facs="tcp:94208:44"/>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">day of month </seg>11th.</label> On the 11th, the Enemy began at first to shoot very much, and chiefly with their heavy Cannon, which they discontinued about an hour after<g ref="char:EOLhyphen"/>wards, though not their Bombs, and throwing of Stones. In the afternoon they began again with their Cannon, shooting by Intervals, but did not advance their works so much as the day before. About four in the after<g ref="char:EOLhyphen"/>noon we saw the Enemy drawing off out of their Camp towards the Hills, and marching over the Bridges, with all the men that were left in <hi>Leopol<g ref="char:EOLhyphen"/>stadt;</hi> we perceiving some Troops coming together towards us, at the new and old buildings of the <hi>Calem<g ref="char:EOLhyphen"/>berg,</hi> which we took to be our Suc<g ref="char:EOLhyphen"/>cours, inasmuch as soon after we saw the Cannon playing towards the Town, that is, towards the Enemy's Troops, that were advanced at the foot of the <hi>Calemberg,</hi> approaching nearer and nearer, while the Enemy continued to withdraw towards the Hills, and to put themselves in a bo<g ref="char:EOLhyphen"/>by there; which continued till night, when we had the signals of our ap<g ref="char:EOLhyphen"/>proaching succours, by Fire and
+<pb n="81" facs="tcp:94208:44"/> Rockets, which we returned to them in the same manner; the Enemy did not all this while desist from their works, playing with their Cannon all the night, which before they did not use to do: The Word was, <hi>St. Dominick,</hi> and <hi>Insprugh.</hi>
+               </p>
+            </div>
+            <div type="day">
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">day of month </seg>12</label> On the <hi>12th</hi> in the morning, the Enemy began with their Cannon and Bombs, and with throwing of Stones more than ordinary, which they con<g ref="char:EOLhyphen"/>tinued till noon, advancing their works every where with great eager<g ref="char:EOLhyphen"/>ness, which made us expect every moment that they would spring the Mines which they had begun, when we immediately perceived at break of day, our Army marching from the old and new Castle of <hi>Calemberg</hi> to<g ref="char:EOLhyphen"/>wards us, the Batallions following one another, and charging the Enemy with their Cannon, whereupon they made halt at the end of the <hi>Calemberg,</hi> and about noon we saw all our Ene<g ref="char:EOLhyphen"/>mies forces drawn off and ranged in <hi>Battalia,</hi> after having brought a great number of Baggage-Waggons and Horses with 1000 Prisoners out of their
+<pb n="82" facs="tcp:94208:45"/> Camp. In the mean time our Troops approaching, and having put them<g ref="char:EOLhyphen"/>selves in <hi>Battalia,</hi> staying for the rest that were coming out of the Forest and from the Hills, they all together made an Attack upon the Enemy in the best order that ever Army did, making them give ground as often as they came to a shock, so that our forces advancing in this close and en<g ref="char:EOLhyphen"/>tire order, the Enemy drew off about four in the afternoon into their Camp, and being forc'd always to give back, put all into such a confusion, that they soon betook themselves to flight, leaving to our Army, not only the Field, but all their Provisions, Am<g ref="char:EOLhyphen"/>munition, Cannon and Tents, with all their Baggage. During the fight, the Marquess <hi>Lewis</hi> of <hi>Baden,</hi> with a Body of Dragoons and half the Regi<g ref="char:EOLhyphen"/>ment of <hi>Wirtemberg,</hi> and some other Troops, advanc'd as far as the Palli<g ref="char:EOLhyphen"/>sadoes of the Town, and together with Count <hi>Staremberg,</hi> enter'd the approaches of the Enemy, who had them yet in possession, playing their Artillery to the very last moment so furiously as if their Army were either
+<pb n="83" facs="tcp:94208:45"/> entire or victorious. They did not however stay for our Attack, but as soon as our forces had in the dusk of the evening, after the discharge of their Cannon from within and with<g ref="char:EOLhyphen"/>out the Town, fallen upon the Ap<g ref="char:EOLhyphen"/>proaches of the Enemy, as is before-mentioned, there was not one man found in them, nor the least resistance made. In the mean time all the Ca<g ref="char:EOLhyphen"/>non and Ammunition that was in their Camp being taken by us, the <hi>Polanders,</hi> who no less than the <hi>Ger<g ref="char:EOLhyphen"/>mans,</hi> had forc'd the Enemy to give ground, came into their Camp, pos<g ref="char:EOLhyphen"/>sessing themselves of a very great Booty.</p>
+               <p>The whole Army that came to our succour was divided in the following order: Upon the Left Wing were the <hi>Imperialists,</hi> under the command of the Duke of <hi>Lorrain.</hi> The Body con<g ref="char:EOLhyphen"/>sisted of the forces of the Empire, headed by the Electors of <hi>Bavaria</hi> and <hi>Saxony,</hi> and by Prince <hi>Waldeck,</hi> who commanded the Troops of <hi>Franconia,</hi> as the Electors did each of them their own. The King of <hi>Poland</hi> brought up the Right Wing, consisting of his
+<pb n="84" facs="tcp:94208:46"/> own Subjects, and of some Imperial Cavalry and Dragoons. In this manner the Battalia was placed and brought into Action, than which nothing could be more perfect in any Army. Inasmuch as no one part advanc'd before the other, so that all the Members of the Army moved equally. There was not there any one General or Prince who did not bring up his own Forces in Person. The King of <hi>Poland</hi> himself engaged at the Head of his own Troops, as did also the E<g ref="char:EOLhyphen"/>lectors of <hi>Bavaria</hi> and <hi>Saxony</hi> before theirs. The Duke of <hi>Lorrain,</hi> the Marquess <hi>Herman,</hi> and <hi>Lewis</hi> of <hi>Baden,</hi> and Duke of <hi>Saxelawenburg,</hi> and also the Prince de <hi>Croy</hi> (who was wounded and his Brother killed) behaved them<g ref="char:EOLhyphen"/>selves in the same Manner at the head of the Imperialists, as did the Prince of <hi>Waldeck</hi> and several other Princes of the Empire before the Troops of <hi>Franconia,</hi> and all other Generals be<g ref="char:EOLhyphen"/>fore their own Men. In a Word, every Person did the Part either of brave and descreet Captains, or of couragious Souldiers; for as the Gene<g ref="char:EOLhyphen"/>rals engaged at the Head of their
+<pb n="85" facs="tcp:94208:46"/> Troops, so did the private Souldiers follow their good Example with such forwardness that the Captains were forced to keep them from advancing too far; none of them were hindred or diverted from their Duty by the Booty that lay before them, but thought only of attacking and con<g ref="char:EOLhyphen"/>quering the Enemy, so that nothing was more wanting then that the Ene<g ref="char:EOLhyphen"/>my had made such a resistance as ac<g ref="char:EOLhyphen"/>cording to all Circumstances and Ap<g ref="char:EOLhyphen"/>pearance they might have done: by which means the Victory might have been more Honourable, the overthrow of the Enemy more entire. This Success we must ascribe to God Almighty, vvho conducted and strenghtned both the Generals, and Forces under their Commands, when we consider as well the advantagious Situation and Opportunities our Ene<g ref="char:EOLhyphen"/>my had to keep off the Succours, as the shameful flight which they betook themselves unto, as soon as ever they were attack'd by our Forces at <hi>Calemberg.</hi> All this Evening, the whole Night, and the next Day, was spent in plundring the Enemies Camp,
+<pb n="86" facs="tcp:94208:47"/> wherein such abundance of all things were found, that besides the costly and rich Baggage, the Grand Seignor's chief Standard, the Horse Tails, the Grand Visier's own Horse, Furniture and Tents, there vvas found several Millions in ready Money, vvithout mentioning the Provisions, Ammu<g ref="char:EOLhyphen"/>nition, Mortar-Pieces, and Ordnance, of vvhich here and there of great and small, about an hundred vvere taken, and vvith this happy and vvelcome Nevvs Count <hi>Aversperge</hi> vvas dis<g ref="char:EOLhyphen"/>patch'd the same Evening to his Im<g ref="char:EOLhyphen"/>perial Majesty.</p>
+            </div>
+            <div type="day">
+               <p>In the morning the King of <hi>Poland,</hi> the Electors of <hi>Bavaria</hi> and <hi>Saxony,</hi>
+                  <note place="margin">13th</note> the Duke of <hi>Lorrain,</hi> and all the other Generals came into the Enemies Works and Ditches of the Town, to see the State of them; highly com<g ref="char:EOLhyphen"/>mending not only the admirable Conduct, and brave Resistance of <hi>Count Staremberg,</hi> but the valiant be<g ref="char:EOLhyphen"/>haviour of the whole Garrison, who, having given so good a Proof of their unanimous Resolution, to venture their last drop of blood in their own defence, as became Men of the great<g ref="char:EOLhyphen"/>est
+<pb n="87" facs="tcp:94208:47"/> Honour and Courage, have there<g ref="char:EOLhyphen"/>by gained that Immortal Renown, which neither the World can deny at present, nor Histories refuse them here<g ref="char:EOLhyphen"/>after.</p>
+               <p>The King of <hi>Poland,</hi> having visited all the Enemies Works and Approaches, went afrerwards into the Town, at<g ref="char:EOLhyphen"/>tended by a small Retinue, and by <hi>Count Staremberg,</hi> to give God thanks for this Victory, which was done in the Chapel of <hi>Loretto,</hi> at the <hi>Augustin</hi> Fryers, whilst all the Electors and o<g ref="char:EOLhyphen"/>ther Princes, Generals and Officers, after having viewed the Works and Fortifications, went into the Enemies Camp, as did the King of <hi>Poland</hi> him<g ref="char:EOLhyphen"/>self, after he had, with the General and Lieutenant <hi>Grat,</hi> and other chief Of<g ref="char:EOLhyphen"/>ficers of that Kingdom, dined with <hi>Count Staremburg;</hi> The confederate Army this day leaving the Enemies Camp, where they could no longer remain, by reason of the great Stench that was in it, were afterwards lodg<g ref="char:EOLhyphen"/>ed upon the side of the River from St. <hi>Mark,</hi> as far as the <hi>Fischa;</hi> In the mean time <hi>Count Staremberg</hi> gave order for carrying into the Town all
+<pb n="88" facs="tcp:94208:48"/> the Enemies Ammunition, Provision, and Ordnance, of which the greatest part was spoiled and rendred unfit for farther use, by our great Guns: there having been also the night and day before, several Quintals of Pow<g ref="char:EOLhyphen"/>der blown up in the Enemies Camp, by the carelesness of our Souldiers, and their eagerness in searching and plundering the Waggons.</p>
+            </div>
+            <div type="day">
+               <p>About noon the Emperour arrived <note place="margin">14th</note> at <hi>Vienna,</hi> with a small Attendance, where all the Cannon having been three times discharged, He received the respects of the Electors, Princes and Generals; who all together, and particularly <hi>Count Staremberg,</hi> were admitted to Kiss his Hand. After which his Imperial Majesty having visited the Enemies Approaches and Fortifications, was conducted to the Church of St, <hi>Stephen,</hi> where <hi>Te Deum</hi> was Sung, all the Cannon being dis<g ref="char:EOLhyphen"/>charged three times as before. From whence he went to his Palace, and gave Audience to his Imperial Depu<g ref="char:EOLhyphen"/>ties, that had been in the Town du<g ref="char:EOLhyphen"/>ring the Siege, and to several other Of<g ref="char:EOLhyphen"/>ficers and Gentlemen, the King of <hi>Po<g ref="char:EOLhyphen"/>land</hi>
+                  <pb n="89" facs="tcp:94208:48"/> having also sent an Envoy to con<g ref="char:EOLhyphen"/>gratulate with Him upon the late Suc<g ref="char:EOLhyphen"/>cess.</p>
+               <p>What happened the next day, while the Emperour stayed here to view the Army and the inward part of the Town, and to take resolutions concerning the farther motion and progress of the Army, is not my part to relate who intended only this Journal of the Seige for my private use and sa<g ref="char:EOLhyphen"/>tisfaction; Ascribing the Honour of all to God Almighty, who, in his great Mercy, hath enabled and ani<g ref="char:EOLhyphen"/>mated the Officers and Souldiers of the Garrison, to make good their de<g ref="char:EOLhyphen"/>fence in so couragious and successful a manner, and has also given Victory to the Christian Army, whereby not only his Imperial Majesty, and his Hereditary Countries, but all <hi>Europe</hi> hath been preserved.</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="addenda">
+            <pb facs="tcp:94208:49"/>
+            <head>ADDENDA.</head>
+            <p>
+               <hi>July</hi> 24. <hi>page</hi> 29. After the word send, add, <hi>Collonel Ramlinghen,</hi> and the Baron of <hi>Welts.</hi> After the word indis<g ref="char:EOLhyphen"/>position, add, by reason of his Wounds.</p>
+            <p>
+               <hi>Page</hi> 30. After the word action, add <hi>Captain Schemnitz</hi> of the Regiment of <hi>Staremberg,</hi> was kill'd, <hi>Quido Count Staremberg,</hi> and the chief Engineer <hi>Rimbler,</hi> wounded; as was also <hi>Lieu<g ref="char:EOLhyphen"/>tenant-Collonel Walter,</hi> of the Regi<g ref="char:EOLhyphen"/>ment of <hi>Wirtemberg,</hi> shot afterwards.</p>
+            <p>
+               <hi>Page</hi> 33. After the vvord Men, add In this Attaque <hi>Major Gallinfets</hi> vvas kill'd with an Arrow, and in the night <hi>Major Montenely</hi> was wounded.</p>
+            <p>
+               <hi>Page</hi> 35. After the word <hi>Palisadoes,</hi> add, buried some of our Men, but no farther attempt being made by them, our men began again immediately to fix their Palisadoes.</p>
+            <p>
+               <hi>Page</hi> 37. After Bombs out of it, add <hi>Lieutenant Collonel Gschwind,</hi> being, as the day before, in very great danger, as having his Post where this Accident happen'd.</p>
+            <pb facs="tcp:94208:49"/>
+            <p>
+               <hi>Page</hi> 40. After Draw-bridge, add, the chief Engineer <hi>Rimbler</hi> died this Night of his Wounds.</p>
+            <p>
+               <hi>Page</hi> 41. After Possession, add, in this occasion was killed-Lieutenant Collo<g ref="char:EOLhyphen"/>nel <hi>Rodelinckhy</hi> of the Regiment of <hi>Sta<g ref="char:EOLhyphen"/>remberg,</hi> Captain <hi>Lorne,</hi> and an Ensign of the same Regiment, Captain <hi>Rode<g ref="char:EOLhyphen"/>linckhy</hi> being also wounded.</p>
+            <p>
+               <hi>Page</hi> 42. After friends, add, going abroad the day before with 2000 men to make their observation, had en<g ref="char:EOLhyphen"/>gaged with the Enemy, and killed a<g ref="char:EOLhyphen"/>bove 1000 of them.</p>
+            <p>
+               <hi>Page</hi> 61. After attack'd Ravelin, add, this day Lieutenant-Colonel <hi>Gschenckh</hi> was wounded, and Captain <hi>Hillar</hi> killed.</p>
+            <p>
+               <hi>Page</hi> 63. <hi>l.</hi> 17. After always with good success, add, where Captain <hi>Reckha,</hi> and <hi>Quido Count Staremberg</hi> were present.</p>
+            <p>
+               <hi>Page</hi> 66. <hi>l.</hi> 1. After Mine on the Ra<g ref="char:EOLhyphen"/>velin, add, Captain <hi>Macks</hi> an Officer of the Artillery was killed this afternoon, as was also Captain <hi>Sabelitscke</hi> and Captain <hi>Failbrook.</hi>
+            </p>
+            <p>
+               <hi>Page</hi> 66. <hi>l.</hi> 20. After Stones as before add, with the last of which they much
+<pb facs="tcp:94208:50"/> annoyed the Court-bastion, proceed<g ref="char:EOLhyphen"/>ing always on their Works. Captain <hi>Ghemagne,</hi> an Officer of the Artillery, was this afternoon killed with a Shot.</p>
+            <p>
+               <hi>Page</hi> 67. <hi>l.</hi> 22. After very hot, add, on our side <hi>Baron Spindler,</hi> an Ensigne, was Shot, and died the next day.</p>
+            <p>
+               <hi>Page</hi> 71. <hi>l.</hi> 7. After Day and Night, add, Captain <hi>Kressle</hi> an officer of the Artillery, was killed towards morning.</p>
+            <p>
+               <hi>Page</hi> 72. <hi>l.</hi> 8. After throwing of Stones, add, about four a clock in the Afternoon Lieutenant-Collonel <hi>Gschwin'd</hi> was wounded with a Stone upon the Shoulders and Arms as he was taking care of his Post.</p>
+            <p>
+               <hi>Page</hi> 73. <hi>l.</hi> 18. After the word sig<g ref="char:EOLhyphen"/>nals, add, this day Captain <hi>Muller</hi> of the Regiment of <hi>Mansfelt</hi> was wounded.</p>
+            <p>
+               <hi>Page</hi> 74. <hi>l.</hi> 3. After <hi>Staremberg,</hi> add, the two Major Generals, <hi>Count Taun</hi> and <hi>Count Sereni,</hi> as also Collonel <hi>Sou<g ref="char:EOLhyphen"/>ches</hi> and Collonel <hi>Scherffenberg</hi> and o<g ref="char:EOLhyphen"/>ther Officers.</p>
+            <pb facs="tcp:94208:50"/>
+         </div>
+      </back>
+   </text>
+</TEI>
